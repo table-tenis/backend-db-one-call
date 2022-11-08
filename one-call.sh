@@ -2,7 +2,7 @@
 
 source .env
 
-############### Delete Mariadb Service ##################
+############### Delete Mariadb Service If Exist ##################
 if [ -z "${MARIADB_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=mariadb`
 else
@@ -13,7 +13,7 @@ if [[ ${CONTAINER_ID} != "" ]]; then
     docker rm -f ${CONTAINER_ID}
 fi
 
-############### Delete Adminer Service Container ##################
+############### Delete Adminer Service Container If Exist ##################
 if [ -z "${ADMINER_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=adminer`
 else
@@ -25,7 +25,7 @@ if [[ ${CONTAINER_ID} != "" ]]; then
 fi
 
 
-############### Delete Redis Service Container ##################
+############### Delete Redis Service Container If Exist ##################
 if [ -z "${REDIS_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=redis`
 else
@@ -36,7 +36,7 @@ if [[ ${CONTAINER_ID} != "" ]]; then
     docker rm -f ${CONTAINER_ID}
 fi
 
-############### Delete Redis-Commander Service Container ##################
+############### Delete Redis-Commander Service Container If Exist ##################
 if [ -z "${REDIS_COMMANDER_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=redis-commander`
 else
@@ -47,7 +47,7 @@ if [[ ${CONTAINER_ID} != "" ]]; then
     docker rm -f ${CONTAINER_ID}
 fi
 
-############### Delete Traefik Service Container ##################
+############### Delete Traefik Service Container If Exist ##################
 if [ -z "${TRAEFIK_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=traefik`
 else
@@ -58,7 +58,7 @@ if [[ ${CONTAINER_ID} != "" ]]; then
     docker rm -f ${CONTAINER_ID}
 fi
 
-############### Delete Account Service Container ##################
+############### Delete Account Service Container If Exist ##################
 if [ -z "${ACCOUNT_SERVICE_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=account-service`
 else
@@ -69,7 +69,7 @@ if [[ ${CONTAINER_ID} != "" ]]; then
     docker rm -f ${CONTAINER_ID}
 fi
 
-############### Delete Enterprise Service Container ##################
+############### Delete Enterprise Service Container If Exist ##################
 if [ -z "${ENTERPRISE_SERVICE_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=enterprise-service`
 else
@@ -80,7 +80,7 @@ if [[ ${CONTAINER_ID} != "" ]]; then
     docker rm -f ${CONTAINER_ID}
 fi
 
-############### Delete Report Service Container ##################
+############### Delete Report Service Container If Exist ##################
 if [ -z "${REPORT_SERVICE_CONTAINER_NAME}" ]; then
     CONTAINER_ID=`docker ps -aq -f name=report-service`
 else
@@ -98,6 +98,7 @@ fi
 ###################################################################
 docker-compose up -d
 cd python-scripts
+python -m pip install -r requirements.txt
 python dump_facedata_db.py
 python consumer_to_db.py
 
