@@ -1,0 +1,54 @@
+version: '3.5'
+
+volumes:
+  enterprise-service-data:
+
+services:
+  enterprise_service:
+    image: ${ENTERPRISE_SERVICE_IMAGE_NAME:-enterprise_service:1.1}
+    container_name: ${ENTERPRISE_SERVICE_CONTAINER_NAME:-enterprise-service}
+    restart: always
+    ports: 
+      - ${ENTERPRISE_SERVICE_PORT:-9030}:9030
+    volumes:
+      - ${ENTERPRISE_SERVICE_VOLUME:-enterprise-service-data}:/root/.vscode-server/extensions:rw
+    environment: 
+      DYNACONF_MARIADB_HOST: ${ENTERPRISE_SERVICE_MARIADB_HOST:-127.0.0.1}
+      DYNACONF_MARIADB_PORT: ${ENTERPRISE_SERVICE_MARIADB_PORT:-3306}
+      DYNACONF_MARIADB_DB_NAME: ${ENTERPRISE_SERVICE_MARIADB_NAME:-xface_system}
+      DYNACONF_MARIADB_USERNAME: '${ENTERPRISE_SERVICE_MARIADB_USERNAME:-root}'
+      DYNACONF_MARIADB_PASSWORD: '${ENTERPRISE_SERVICE_MARIADB_PASSWORD:-root}'
+      DYNACONF_SECRET_KEY: ${ENTERPRISE_SERVICE_SECRET_KEY}
+
+    labels:
+      # Declare traefik routers
+      - "traefik.enable=true"
+      - "traefik.http.routers.enterprise.rule=PathPrefix(`/api/xface/v1/enterprises`, `/api/xface/v1/sites`, `/api/xface/v1/cameras`, `/api/xface/v1/staffs`)"
+      - "traefik.http.routers.enterprise.entrypoints=web"
+      - "traefik.http.routers.enterprise.service=enterprise-service"
+      - "traefik.http.routers.enterprise.middlewares=authorization"
+      
+      # Declare traefik services
+      - "traefik.http.services.enterprise-service.loadbalancer.server.port=${ENTERPRISE_SERVICE_PORT:-9030}"
+      - "traefik.http.services.enterprise-service.loadbalancer.healthcheck.path=/"
+      - "traefik.http.services.enterprise-service.loadbalancer.healthcheck.interval=5s"
+      - "traefik.http.services.enterprise-service.loadbalancer.healthcheck.timeout=30s"
+      # - "traefik.http.services.enterprise-service.loadbalancer.healthcheck.port=9031"
+
+      # Declare traefik middlewares
+      - "traefik.http.middlewares.authorization.forwardauth.address=http://${ACCOUNT_SERVICE_CONTAINER_NAME:-account-service}:${ACCOUNT_SERVICE_PORT:-9031}/api/xface/v1/accounts/auth"
+      - "traefik.http.middlewares.authorization.forwardauth.trustForwardHeader=true"
+    networks:
+      - services-network
+
+    healthcheck:
+      test: ["CMD", "curl", "http://localhost:${ENTERPRISE_SERVICE_PORT:-9030}"]
+      interval: 10s
+      timeout: 2s
+      retries: 3
+      start_period: 30s
+    
+networks:
+  services-network:
+    external:
+      name: ${ENTERPRISE_SERVICE_NETWORK:-gateway}

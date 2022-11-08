@@ -1,0 +1,52 @@
+version: '3.5'
+
+volumes:
+  account-service-data:
+
+services:
+  account_service:
+    image: ${ACCOUNT_SERVICE_IMAGE_NAME:-account_service:1.1}
+    container_name: ${ACCOUNT_SERVICE_CONTAINER_NAME:-account-service}
+    restart: always
+    ports: 
+      - ${ACCOUNT_SERVICE_PORT:-9031}:9031
+    volumes:
+      - ${ACCOUNT_SERVICE_VOLUME:-account-service-data}:/root/.vscode-server/extensions:rw
+    environment: 
+      DYNACONF_MARIADB_HOST: ${ACCOUNT_SERVICE_MARIADB_HOST:-127.0.0.1}
+      DYNACONF_MARIADB_PORT: ${ACCOUNT_SERVICE_MARIADB_PORT:-3306}
+      DYNACONF_MARIADB_DB_NAME: ${ACCOUNT_SERVICE_MARIADB_NAME:-xface_system}
+      DYNACONF_MARIADB_USERNAME: '${ACCOUNT_SERVICE_MARIADB_USERNAME:-root}'
+      DYNACONF_MARIADB_PASSWORD: '${ACCOUNT_SERVICE_MARIADB_PASSWORD:-root}'
+      DYNACONF_REDIS_HOST: ${ACCOUNT_SERVICE_REDIS_HOST:-127.0.0.1}
+      DYNACONF_REDIS_PORT: ${ACCOUNT_SERVICE_REDIS_PORT:-6379}
+      DYNACONF_REDIS_PASSWORD: ${ACCOUNT_SERVICE_REDIS_PASSWORD:-root}
+      DYNACONF_TOKEN_EXPIRES: ${ACCOUNT_SERVICE_TOKEN_EXPIRES:-86400}
+      DYNACONF_SECRET_KEY: ${ACCOUNT_SERVICE_SECRET_KEY}
+    labels:
+      # Declare traefik routers
+      - "traefik.enable=true"
+      - "traefik.http.routers.account.rule=PathPrefix(`/api/xface/v1/accounts`, `/api/xface/v1/acls`)"
+      - "traefik.http.routers.account.entrypoints=web"
+      - "traefik.http.routers.account.service=account-service"
+
+      # Declare traefik services
+      - "traefik.http.services.account-service.loadbalancer.server.port=${ACCOUNT_SERVICE_PORT:-9031}"
+      - "traefik.http.services.account-service.loadbalancer.healthcheck.path=/"
+      - "traefik.http.services.account-service.loadbalancer.healthcheck.interval=5s"
+      - "traefik.http.services.account-service.loadbalancer.healthcheck.timeout=30s"
+      # - "traefik.http.services.account-service.loadbalancer.healthcheck.port=9031"
+    networks:
+      - services-network
+
+    healthcheck:
+      test: ["CMD", "curl", "http://localhost:${ACCOUNT_SERVICE_PORT:-9031}"]
+      interval: 10s
+      timeout: 2s
+      retries: 3
+      start_period: 30s
+    
+networks:
+  services-network:
+    external:
+      name: ${ACCOUNT_SERVICE_NETWORK:-gateway}

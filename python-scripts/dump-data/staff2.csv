@@ -1,0 +1,759 @@
+"id","staff_code","full_name","mail_code","cellphone","unit","department","date_of_birth","sex","title","note","should_diemdanh","activate"
+13,"015234","Đỗ Mạnh Hoài","hoaidm","0989958088","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1971-12-16","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+9,"119695","Nguyễn Hữu Hùng","hungnh16","0969468686","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1984-09-07","Nam","Nhân viên Hành chính","Tầng 9 nan BQP",True,True
+803,"434715","Đặng Văn Sơn","sondv28","0349715566","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thiết bị kiểm tra","1998-07-30","Nam","Kỹ sư Phần mềm Thiết bị kiểm tra",NULL,True,True
+10,"120524","Dương Thị Châm","chamdt","0976702468","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1988-10-02","Nữ","Nhân viên Hành chính","Tầng 9 Collected nan",True,True
+12,"185113","Đỗ Xuân Luận","luandx","0968126899","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1987-11-20","Nam","Nhân viên Hành chính","Tầng 9 Collected nan",True,True
+31,"185495","Hoàng Văn Năng","nanghv","0982868689","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1984-05-10","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+35,"245328","Mạc Trí Anh","anhmt27","0862101195","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Kết cấu-cơ khí đạn phòng không","1995-10-23","Nam","Kỹ sư Cơ khí đạn phòng không","Tầng 9 Collected nan",True,True
+37,"139133","Lê Ngọc Hồ","holn1","0982701819","Khối Triển khai - Viện HKVT","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","1987-04-26","Nam","Giám đốc Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Tầng 11 Collected nan",True,True
+19,"078094","Trịnh Thanh Long","longtt151","0989694488","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1976-11-04","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+38,"071935","Đào Việt Châu","chaudv","0966636866","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Nghiên cứu, thiết kế hệ thống thông tin trường bắn","1985-07-01","Nam","Kỹ sư Thiết kế hệ thống","Tầng 11 Collected nan",True,True
+18,"067109","Phạm Đức Giang","giangpd6","0969786718","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1972-04-13","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+14,"039571","Trần Bình Trọng","trongtb3","0972577776","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1980-01-06","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+25,"123664","Trịnh Đình Nam","namtd10","0965873000","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1976-07-14","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,False
+34,"056953","Trần Thị Bích Hồng","hongttb","0976913335","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1985-09-12","Nữ","Nhân viên Kế hoạch","Tầng 9 Collected nan",True,True
+30,"134608","Nguyễn Hữu Đức","ducnh9","0986671984","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1984-07-06","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+22,"106976","Nguyễn Thành Tuân","tuannt21","0969999932","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1987-06-22","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,False
+21,"089667","Nguyễn Xuân Trường","truongnx181","0963675588","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1975-08-08","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+29,"129548","Lê Hồng Khoa","khoalh","0963862779","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1966-04-22","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,False
+26,"123690","Phan Hữu Dũng","dungph3","0368119119","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1993-10-03","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+690,"290440","Phạm Quang Tới","toipq","0337622277","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Phần mềm điều khiển bay","1998-12-17","Nam","Kỹ sư Phần mềm điều khiển bay",NULL,True,True
+20,"078170","Phan Hồng Tuấn","tuanph2","0983761123","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1976-11-23","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+23,"119549","Dương Văn Khẩn","khandv","0976059566","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1979-12-08","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+27,"123723","Trần Nam Phương","phuongtn5","0977117532","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1976-11-25","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+17,"063949","Lê Chí Thanh","thanhlc4","0988668898","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1979-09-14","Nam","Đội trưởng Đội xe","Tầng 9 nan nan",False,True
+16,"047626","Nguyễn Duy Dương","duongnd101","0975181858","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1981-07-09","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+33,"053573","Nguyễn Quốc Chính","chinhnq4","0988146555","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1981-12-11","Nam","Chuyên viên Kế hoạch","Tầng 9 Collected nan",True,True
+749,"272878","Nguyễn Minh Viển","viennm2","0368272695","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1997-05-06","Nam","Kỹ sư Điện-Điều khiển",NULL,True,True
+28,"125732","Kiều Mạnh Đồng","dongkm1","0986166665","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1987-03-04","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,False
+40,"122502","Nguyễn Văn Tuyển","tuyennv8","0972893298","Khối phòng ban quản lý, hỗ trợ - Viện HKVT","Phòng Công nghệ thông tin","1988-07-31","Nam","Kỹ sư nghiên cứu ATTT","quitted",NULL,False
+7,"044617","Trần Thị Son","sontt11","0979767788","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1983-01-21","Nữ","Nhân viên Văn thư","Tầng 9 Collected nan",True,True
+32,"048074","Hồ Hoàng Hà","hahh","0986080185","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1985-11-08","Nam","Trưởng ban Hành chính - Hậu cần","Tầng 9 Collected nan",True,True
+8,"062524","Trần Hồng Sơn","sonth2","0397256666","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1976-01-06","Nam","Nhân viên Quân y","Tầng 9 nan nan",True,True
+2,"001633","Phan Giang Châu","chaupg","0988668669","Viện Hàng không vũ trụ Viettel","Ban Giám đốc Viện","1968-05-28","Nam","Phó Viện trưởng","nan nan nan",True,True
+1,"123710","Phạm Đức Toàn","toanpd3","0328311338","Viện Hàng không vũ trụ Viettel","Ban Giám đốc Viện","1983-07-01","Nam","Phó Viện trưởng","nan nan nan",True,True
+5,"009032","Lê Quang Hưng","hunglq","0983292724","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1977-11-25","Nam","Trưởng phòng Kế hoạch tổng hợp","Tầng 9 Collected nan",True,True
+750,"293813","Hoàng Xuân Quyết","quyethx2","0969707497","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1997-09-04","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+60,"008878","Hoàng Phương Linh","linhhp1","0989132415","Khối phòng ban chức năng - Viện HKVT","Phòng Chính trị","1978-04-14","Nữ","Trợ lý Tuyên huấn","Tầng 9 Collected nan",True,True
+64,"227932","Nguyễn Trung Thiên","thiennt9","0979171466","Khối phòng ban chức năng - Viện HKVT","Phòng Chính trị","1994-04-21","Nam","Trợ lý Bảo vệ an ninh","Tầng 9 Collected nan",True,True
+72,"009428","Vũ Thị Diệu Linh","dieulinh","0965288688","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1984-02-05","Nữ","Nhân viên Kinh doanh","Tầng 9 Collected nan",True,True
+74,"120099","Nguyễn Thị Kim Oanh","oanhntk9","0983805838","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1983-08-25","Nữ","Trưởng phòng Đầu tư","Tầng 9 Collected nan",True,True
+75,"127753","Nguyễn Thị Thúy Liên","lienntt2","0985737955","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1983-04-26","Nữ","Chuyên viên Đầu tư","Tầng 9 Collected nan",True,True
+77,"217189","Đinh Diệu Linh","linhdd1","0981882650","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1972-04-17","Nữ","Chuyên viên Dự án","Tầng 9 Collected nan",True,True
+70,"087324","Phùng Văn Thắng","thangpv2","0986554878","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1986-04-25","Nam","Trưởng phòng Quản lý tài sản","Tầng 9 Collected nan",True,True
+602,"141934","Võ Như Dẫn","danvn","0983296500","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1984-10-01","Nam","Kỹ sư Thiết kế phần cứng","Tầng 4 Collected nan",True,True
+50,"240726","Trần Thị Thùy Linh","linhttt23","0388258555","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1995-09-08","Nữ","Nhân viên Sáng kiến ý tưởng","Tầng 9 Collected nan",True,False
+41,"156336","Trần Hoàng Tuấn","tuanth9","0367111350","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Quản trị hệ thống CNTT","1991-12-04","Nam","Kỹ sư Quản trị hệ thống","Tầng 11 Collected nan",True,True
+55,"087315","Hoàng Thị Thu Huyền","huyenhtt6","0974731330","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1980-11-07","Nữ","Nhân viên Kế toán phần hành 1","Tầng 9 Collected nan",True,True
+57,"185579","Lưu Thị Vân Anh","anhltv5","0974347135","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1987-05-13","Nữ","Nhân viên Tổng hợp và Phân tích","Tầng 9 Collected nan",True,True
+58,"207614","Đoàn Minh Phương","phuongdm8","0989177999","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1994-04-14","Nữ","Nhân viên Kế toán phần hành 1","Tầng 9 Collected nan",True,True
+47,"207367","Vũ Cao Đàm","damvc","0869199936","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1969-10-12","Nam","Nhân viên quản lý đề tài","Tầng 9 Collected nan",True,True
+59,"080105","Hoàng Văn Đức","duchv1","0986636818","Khối phòng ban chức năng - Viện HKVT","Phòng Chính trị","1978-10-06","Nam","Trưởng phòng Chính trị","Tầng 9 Collected nan",True,True
+62,"140293","Đỗ Xuân Khánh","khanhdx","0983840255","Khối phòng ban chức năng - Viện HKVT","Phòng Chính trị","1980-10-09","Nam","Phó phòng Chính trị","Tầng 9 Collected nan",True,True
+751,"293814","Nguyễn Thanh Hải","haint143","0981142685","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1989-09-19","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+785,"432078","Nguyễn Thanh Thủy","thuynt291","0356131082","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1982-10-13","Nữ","Chuyên viên Khoa học Công nghệ",NULL,True,True
+69,"001054","Phạm Thị Hương Duyên","duyenph","0966323979","Trung tâm Đầu tư Mua sắm","Ban Giám đốc Trung tâm","1978-04-02","Nữ","Phó Giám đốc Trung tâm Đầu tư mua sắm","Tầng 9 Collected nan",True,True
+43,"225223","Nguyễn Hoàng Quý","quynh218","0868860594","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Quản trị hệ thống CNTT","1994-12-21","Nam","Kỹ sư Quản trị hệ thống","quitted",NULL,False
+752,"294098","Trương Thành Long","longtt22","0978220478","Trung tâm Quản lý sản xuất","Phòng Công nghệ sản xuất & Chế thử sản phẩm","1992-11-08","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+67,"228424","Hoàng Ninh Trang","tranghn2","0398925296","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1996-02-25","Nữ","Nhân viên Tiền lương và Quan hệ lao động","quitted",NULL,False
+63,"208475","Nguyễn Minh Hiền","hiennm16","0982972230","Khối phòng ban chức năng - Viện HKVT","Phòng Chính trị","1994-10-28","Nữ","Trợ lý Cán bộ","Tầng 9 Collected nan",True,True
+61,"090018","Nguyễn Đình Kiện","kiennd1","0977006575","Khối phòng ban quản lý, hỗ trợ - Viện HKVT","Phòng Chính trị","1985-03-07","Nam","Trợ lý Cán bộ","quitted",NULL,False
+44,"240725","Dương Quang Đạt","","0962455217","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1994-07-21","Nam","Kỹ sư Thiết kế Siêu cao tần","Tầng 4 Collected nan",True,False
+65,"000541","Trịnh Mai Quý","quytm","0978168168","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1982-02-20","Nam","Trưởng phòng Tổ chức lao động","Tầng 9 Collected nan",True,True
+52,"020805","Lê Tiến Dũng","dungtd","0988880459","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1984-11-30","Nam","Nhân viên Kế toán phần hành 1","Tầng 9 Collected nan",True,True
+53,"045096","Nguyễn Thị Thúy Hà","hantt9","0987688999","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1977-10-23","Nữ","Nhân viên Kế toán phần hành 1","Tầng 9 Collected nan",True,True
+56,"174853","Hà Phương Linh","linhhp2","0989231091","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1991-10-23","Nữ","Nhân viên Tổng hợp và Phân tích","Tầng 9 Collected nan",True,True
+73,"119157","Nguyễn Viết Thịnh","thinhnv6","0987608558","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1987-04-13","Nam","Chuyên viên Đầu tư","Tầng 9 Collected nan",True,True
+753,"294127","Đặng Anh Tuấn","tuanda51","0904486647","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1989-06-07","Nam","Kỹ sư Tích hợp hàng không",NULL,True,True
+78,"222793","Nguyễn Thị Diệu Thúy","thuyntd2","0977725453","Trung tâm Đầu tư Mua sắm","Phòng Hợp đồng","1993-05-01","Nữ","Chuyên viên Hợp đồng","Tầng 9 Collected nan",True,True
+46,"122633","Nguyễn Hải Thanh","thanhnh18","0982019398","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1977-06-20","Nam","Nhân viên quản lý đề tài","Tầng 9 nan LLQ",False,True
+786,"432062","Nguyễn Thị Thanh Hằng","hangntt80","0354076284","Khối phòng ban chức năng - Viện HKVT","Phòng Pháp chế và Kiểm soát nội bộ","1994-11-06","Nữ","Nhân viên thẩm định và tư vấn pháp lý",NULL,True,True
+102,"061106","Hoàng Văn Hưng","hunghv16","0869616999","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1984-05-22","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+84,"072551","Nguyễn Đức Anh","anhnd8","0388268700","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1986-10-26","Nam","Nhân viên Quản lý tài sản","Tầng 9 Collected nan",True,True
+85,"102001","Bùi Xuân Trọng","trongbx","0366768668","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1984-02-17","Nam","Nhân viên Kho","Tầng 9 Collected nan",True,True
+88,"199779","Nguyễn Vĩnh Thành","thanhnv76","0964839922","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1992-08-27","Nam","Nhân viên Kho","Tầng 9 Collected nan",True,True
+603,"218783","Nguyễn Hải Dương","duongnh28","0352352282","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý tín hiệu ra đa","1994-08-02","Nam","Kỹ sư Phần mềm Xử lý tín hiệu","Tầng 11 Collected nan",True,True
+691,"290514","Lưu Thế Đạt","datlt34","0384684595","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1991-10-08","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+101,"060562","Phạm Văn Dân","danpv","0975258686","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1983-05-02","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+692,"290884","Nguyễn Trung Nhiệm","nhiemnt5","0969692516","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1998-03-16","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+115,"138929","Nguyễn Quang Đông","dongnq2","0977056450","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1982-04-15","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+95,"060563","Phạm Văn Hải","haipv6","0983007156","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1979-11-14","Nam","Trợ lý Huấn luyên","Tầng 9 Collected nan",True,True
+114,"138248","Trần Tuấn Chính","chinhtt2","0974561111","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1984-10-15","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+116,"138932","Chu Đình Độ","docd","0973866786","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1978-08-13","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+117,"142593","Bùi Văn Tường","tuongbv","0972979998","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1984-06-20","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+118,"163293","Nguyễn Văn Bình","binhnv29","0982350456","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1980-11-20","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+120,"164394","Đặng Anh Tuấn","tuanda31","0984060576","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1986-12-23","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+105,"067050","Trần Trọng Long","longtt6","0986166889","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1976-09-01","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,False
+103,"065493","Trần Văn Luân","luantv","0967638585","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1985-09-20","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+113,"122831","Phạm Hữu Hùng","hungph2","0966180888","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1984-10-20","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+112,"119681","Nguyễn Doãn Đoàn","doannd1","0977407596","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1981-05-05","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+110,"086636","Nguyễn Văn Toản","toannv13","0966190000","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1978-02-08","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+109,"086601","Ngô Thanh Bình","binhnt48","0976608868","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1979-07-28","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+119,"164373","Nguyễn Duy Khoa","khoand6","0978156582","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1982-07-23","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+107,"071249","Nguyễn Quang Thời","thoinq","0989881977","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1976-06-04","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+106,"067051","Trần Văn Nam","namtv15","0975757272","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1984-03-20","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+104,"065494","Bùi Ngọc Cường","cuongbn1","0963070783","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1983-05-10","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+100,"057102","Hoàng Văn Tâm","tamhv","0981307999","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1984-09-09","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+99,"057063","Mai Xuân Trình","trinhmx","0987188686","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1981-03-21","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+98,"055273","Phan Thanh Vấn","vanpt","0989738319","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1977-05-19","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+97,"005687","Trần Văn Thao","thaotv2","0982919188","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1981-02-10","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+82,"246756","Nguyễn Thị Thu Huyền","huyenntt68","0396787829","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1993-12-31","Nữ","Chuyên viên Đầu tư","Tầng 9 Collected nan",True,True
+93,"089438","Trần Huy Đạo","daoth1","0962673369","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1977-05-12","Nam","Trưởng phòng Tham mưu tác chiến","Tầng 9 Collected nan",True,True
+80,"242064","Bùi Tố Anh","anhbt48","0329825555","Trung tâm Đầu tư Mua sắm","Phòng Hợp đồng","1994-05-28","Nữ","Chuyên viên Hợp đồng","Tầng 9 Collected nan",True,True
+83,"265283","Trịnh Thị Hoàng Anh","anhtth16","0862538071","Trung tâm Đầu tư Mua sắm","Phòng Hợp đồng","1997-10-09","Nữ","Chuyên viên Hợp đồng","Tầng 9 Collected nan",True,True
+96,"186380","Dương Thành Sơn","sondt22","0978855691","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1984-10-22","Nam","Trợ lý Huấn luyên","Tầng 9 Collected nan",True,True
+79,"233609","Nguyễn Phương Ly","lynp","0987503416","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1994-11-02","Nữ","Chuyên viên Đầu tư","Tầng 9 Collected nan",True,False
+81,"246380","Nguyễn Minh Anh","anhnm28","0378091918","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1997-04-18","Nữ","Chuyên viên Đầu tư","Tầng 9 Collected nan",True,True
+111,"086638","Nguyễn Quang Hưng","hungnq22","0977231818","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1976-08-13","Nam","Đội trưởng Vệ binh","Tầng 9 nan nan",False,True
+92,"249034","Nguyễn Thị Thảo My","myntt17","0972282090","Khối phòng ban chức năng - Viện HKVT","Phòng Pháp chế và Kiểm soát nội bộ","1995-04-12","Nữ","Nhân viên Kiểm soát Nội bộ","Tầng 9 Collected nan",True,True
+759,"428231","Nguyễn Trần Hoài Linh","linhnth18","0337153555","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế thiết bị điều khiển mặt đất","1998-04-26","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+149,"250751","Phạm Tuấn Anh","anhpt156","0868375896","Trung tâm Động cơ Phản lực Hàng không","Phòng Nghiên cứu và phát triển động cơ","1993-08-18","Nam","Kỹ sư thiết kế máy cánh","Tầng 4 Collected nan",True,True
+150,"208304","Bùi Văn Sơn","sonbv5","0961752225","Trung tâm Động cơ Phản lực Hàng không","Phòng Điều khiển và giám sát động cơ","1990-12-14","Nam","Trưởng phòng Điều khiển và giám sát động cơ","Tầng 4 Collected nan",True,True
+152,"241255","Trịnh Thanh Nam","namtt22","0375680598","Trung tâm Động cơ Phản lực Hàng không","Phòng Điều khiển và giám sát động cơ","1992-04-30","Nam","Kỹ sư phần mềm nhúng điều khiển động cơ","Tầng 4 Collected nan",True,True
+804,"434714","Nguyễn Ngọc Minh","minhnn31","0859977641","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1998-04-09","Nam","Kỹ sư Kết cấu vệ tinh",NULL,False,True
+154,"264579","Ngô Ngọc Vinh","vinhnn13","0397191162","Trung tâm Động cơ Phản lực Hàng không","Phòng Điều khiển và giám sát động cơ","1997-05-15","Nam","Kỹ sư Phần cứng","Tầng 4 Collected nan",True,True
+125,"199833","Nguyễn Xuân Đồng","dongnx5","0983151777","Khối TL Đối hạm - Viện HKVT","Ban Giám đốc khối","1981-05-15","Nam","Giám đốc Khối TL Đối hạm","Tầng 10 nan nan",True,True
+769,"430046","Nhâm Đỗ Hải Ninh","","0969653116","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Thị giác máy tính","2000-01-14","Nữ","Kỹ sư Xử lý ảnh",NULL,True,False
+126,"228362","Phạm Thúy Quỳnh","quynhpt10","0326098967","Viện Hàng không vũ trụ Viettel","Khối TL Đối hạm - Viện HKVT","1995-01-23","Nữ","Nhân viên Hỗ trợ dự án","Tầng 10 Collected nan",True,True
+130,"218800","Cao Xuân Quân","quancx","0336229515","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1994-08-10","Nam","Kỹ sư Thiết kế cấu hình","Tầng 10 Collected nan",True,True
+132,"228809","Chu Minh Thành","thanhcm2","0966212669","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1991-03-15","Nam","Kỹ sư Thiết kế cấu hình","Tầng 10 Collected nan",True,True
+139,"242125","Nguyễn Trọng Hiệp","hiepnt21","0964380028","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1996-10-23","Nam","Kỹ sư Thiết kế cấu hình","Tầng 10 Collected nan",True,True
+135,"242126","Phùng Minh Ngọc","ngocpm4","0348750888","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1995-02-05","Nam","Kỹ sư Động học bay","Tầng 10 Collected nan",True,True
+140,"243766","Hồ Quang Huy","huyhq14","0865130682","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Hệ thống thiết bị trên khoang","1982-06-13","Nam","Kỹ sư Thiết kế động lực","Tầng 10 Collected nan",True,True
+138,"214431","Phạm Ngọc Khánh","khanhpn4","0343340848","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Tính toán, mô phỏng","1994-09-02","Nam","Kỹ sư tính toán, mô phỏng khí động","Tầng 10 Collected nan",True,True
+124,"191313","Trần Đình Vinh","vinhtd5","0981050488","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1988-04-02","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+127,"187714","Đỗ Văn Phương","phuongdv6","0964389619","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1987-02-03","Nam","Trưởng phòng Thiết kế cấu hình","Tầng 10 Collected nan",True,True
+123,"174053","Trần Văn Doanh","doanhtv2","0975533066","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1981-07-05","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+121,"164494","Trần Viết Bắc","bactv5","0972799199","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1983-10-02","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+91,"249649","Đỗ Minh Khánh","khanhdm2","0332004058","Khối phòng ban chức năng - Viện HKVT","Phòng Pháp chế và Kiểm soát nội bộ","1993-09-20","Nam","Nhân viên thẩm định và tư vấn pháp lý","Tầng 9 Collected nan",True,True
+766,"430086","Bùi Nhật Minh","","0868524726","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Phần mềm điều khiển bay","1999-10-17","Nam","Kỹ sư Tích hợp hàng không",NULL,True,False
+128,"187715","Ngô Sỹ Hoàng","hoangns1","0976892818","Khối TL Đối hạm - Viện HKVT","BU sản phẩm","1986-10-01","Nam","Trưởng Dự án BU ĐH-300","Tầng 10 Collected nan",True,True
+131,"228652","Nguyễn Trường Sơn","sonnt83","0986580320","Khối TL Đối hạm - Viện HKVT","BU sản phẩm","1992-03-20","Nam","Kỹ sư quản lý dự án","Tầng 10 Collected nan",True,True
+129,"209286","Bùi Văn Khôi","khoibv","0981995410","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1990-01-03","Nam","Kỹ sư Thiết kế cấu hình","Tầng 10 Collected nan",True,True
+693,"290885","Vũ Lê Duy","duyvl","0357740654","Trung tâm Đầu tư Mua sắm","Phòng Kiểm tra chất lượng đầu vào","1998-11-13","Nam","Kỹ sư Kiểm tra chất lượng cơ khí ",NULL,True,True
+694,"290886","Đặng Hồng Vân","","0963036389","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1997-10-19","Nữ","Kỹ sư Điện - Điện tử",NULL,True,False
+142,"207691","Nguyễn Quang Hải","hainq18","0344430898","Trung tâm Động cơ Phản lực Hàng không","Ban Giám đốc trung tâm","1984-03-30","Nam","Giám đốc Trung tâm Động cơ Phản lực Hàng không","Tầng 4 Collected nan",True,True
+134,"191194","Phạm Xuân Trường","truongpx4","0969250283","Khối TL Đối hạm - Viện HKVT","BU sản phẩm","1983-02-25","Nam","Kỹ sư quản lý dự án","Tầng 10 Collected nan",True,True
+144,"207753","Bùi Xuân Long","longbx","0346150846","Trung tâm Động cơ Phản lực Hàng không","Phòng Mô hình và Mô phỏng Động cơ","1993-10-09","Nam","Kỹ sư mô phỏng máy cánh","Tầng 4 Collected nan",True,True
+147,"238885","Phạm Văn Sơn","sonpv11","0869832258","Trung tâm Động cơ Phản lực Hàng không","Phòng Mô hình và Mô phỏng Động cơ","1992-02-15","Nam","Kỹ sư Mô hình toán-lý động cơ","Tầng 4 Collected nan",True,True
+148,"241249","Phạm Công Ánh","anhpc9","0977064874","Trung tâm Động cơ Phản lực Hàng không","Phòng Mô hình và Mô phỏng Động cơ","1992-07-09","Nam","Kỹ sư Mô phỏng hệ thống Động lực","Tầng 4 Collected nan",True,True
+146,"209295","Vũ Xuân Hùng","hungvx3","0355883906","Trung tâm Động cơ Phản lực Hàng không","Phòng Nghiên cứu và phát triển động cơ","1991-10-05","Nam","Kỹ sư thiết kế máy cánh","Tầng 4 Collected nan",True,True
+143,"265462","Nghiêm Quốc Huy","huynq80","0988236897","Trung tâm Động cơ Phản lực Hàng không","Phòng Mô hình và Mô phỏng Động cơ","1997-01-13","Nam","Kỹ sư mô phỏng máy cánh","Tầng 4 Collected nan",True,True
+136,"211419","Trần Quang Đức","ductq","0985364927","Khối TL Đối hạm - Viện HKVT","Văn phòng Thiết kế hệ thống Đối hạm","1985-04-28","Nam","Giám đốc Văn phòng Thiết kế hệ thống Đối hạm","Tầng 10 Collected nan",True,True
+153,"245305","Nguyễn Duy Hưng","hungnd68","0963752896","Trung tâm Động cơ Phản lực Hàng không","Phòng Điều khiển và giám sát động cơ","1996-08-02","Nam","Kỹ sư điều khiển động cơ","quitted",NULL,False
+764,"428233","Phạm Trường Thăng","thangpt9","0398008866","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Xe Quân sự","1994-12-19","Nam","Kỹ sư Cơ khí động lực",NULL,True,True
+805,"435200","Nguyễn Duy Đức Anh","","0912442414","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Thuật toán điều khiển","1999-12-28","Nam","Kỹ sư Điều khiển thiết bị bay",NULL,True,True
+160,"241252","Nguyễn Tiến Quyết","quyetnt4","0979682803","Trung tâm Động cơ Phản lực Hàng không","Phòng Nghiên cứu và phát triển động cơ","1989-03-28","Nam","Kỹ sư thiết kế cơ khí động cơ","Tầng 4 Collected nan",True,True
+161,"250752","Vũ Duy Quý","quyvd3","0966516483","Trung tâm Động cơ Phản lực Hàng không","Phòng Nghiên cứu và phát triển động cơ","1993-02-19","Nam","Kỹ sư thiết kế hệ thống động cơ","Tầng 4 Collected nan",True,True
+164,"212394","Nguyễn Tuấn Anh","anhnt475","0984778189","Trung tâm Động cơ Phản lực Hàng không","Phòng Vận hành và Thử nghiệm Động cơ","1991-10-20","Nam","Trưởng phòng Vận hành và Thử nghiệm Động cơ","Tầng 4 Collected nan",True,True
+765,"427885","Nguyễn Thị Anh","anhnt659","0398912888","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1996-10-22","Nữ","Kỹ sư Điện - Điện tử",NULL,True,False
+695,"290786","Ngô Văn Khang","khangnv12","0989570351","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống huấn luyện phòng không","1994-02-07","Nam","Kỹ sư Thiết kế hệ thống nhúng",NULL,True,True
+754,"427158","Nguyễn Thanh Tùng","tungnt148","0962021092","Trung tâm Quản lý chất lượng","Phòng Đo lường thử nghiệm","1992-10-02","Nam","Kỹ sư Kiểm soát chất lượng (QC)",NULL,True,True
+511,"225228","Dương Hồng Hà","hadh9","0989228587","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1991-12-19","Nam","Kỹ sư Kiểm soát chất lượng điện, điện tử (QC)","Tầng 4 Collected nan",True,True
+158,"222562","Nguyễn Văn Lợi","loinv15","0974155580","Trung tâm Quản lý chất lượng","Phòng Đo lường thử nghiệm","1991-07-23","Nam","Kỹ sư đo lường, thử nghiệm ","Tầng 4 Collected nan",True,True
+170,"206771","Phạm Kỳ Nam","nampk","0985654068","Khối Cơ khí - Động lực - Viện HKVT","Trung tâm Kết cấu, Vật liệu","1985-05-14","Nam","Phó Giám đốc Trung tâm Kết cấu, Vật liệu","Tầng 4 Collected nan",True,True
+174,"207744","Nguyễn Huy","huyn443","0973211599","Trung tâm Kết cấu, Vật liệu","Phòng Mô phỏng và Thiết kế","1991-11-02","Nam","Kỹ sư Thiết kế kết cấu","Tầng 4 Collected nan",True,True
+175,"224509","Nguyễn Thị Như Trang","trangntn3","0977340251","Trung tâm Kết cấu, Vật liệu","Phòng Mô phỏng và Thiết kế","1990-06-12","Nữ","Kỹ sư Thiết kế kết cấu","Tầng 4 Collected nan",True,True
+156,"199794","Chu Duy Lành","lanhcd","0982130629","Khối Cơ khí - Động lực - Viện HKVT","Trung tâm Động cơ Phản lực Hàng không","1986-09-02","Nam","Phó Giám đốc Trung tâm Động cơ Phản lực Hàng không","Tầng 4 Collected nan",True,True
+163,"228811","Đặng Tiểu Bình","binhdt16","0978003918","Trung tâm Động cơ Phản lực Hàng không","Phòng Nghiên cứu và phát triển động cơ","1991-09-14","Nam","Kỹ sư thiết kế hệ thống thủy khí trên động cơ","Tầng 4 Collected nan",True,True
+162,"208985","Nguyễn Thu Huyền","huyennt101","0398867638","Trung tâm Động cơ Phản lực Hàng không","Phòng Vận hành và Thử nghiệm Động cơ","1990-09-06","Nữ","Kỹ sư vận hành khai thác động cơ","Tầng 4 Collected nan",True,True
+166,"222560","Nguyễn Văn Nam","namnv62","0963554717","Trung tâm Động cơ Phản lực Hàng không","Phòng Vận hành và Thử nghiệm Động cơ","1992-01-06","Nam","Kỹ sư thiết kế hệ thống thử nghiệm mặt đất động cơ","Tầng 4 Collected nan",True,True
+157,"222561","Lê Văn An","anlv94","0971134826","Trung tâm Động cơ Phản lực Hàng không","Phòng Vận hành và Thử nghiệm Động cơ","1992-11-21","Nam","Kỹ sư thử nghiệm động cơ và hệ thống động lực","Tầng 4 Collected nan",True,True
+167,"241248","Phạm Ngọc Dũng","dungpn8","0976640225","Trung tâm Động cơ Phản lực Hàng không","Phòng Vận hành và Thử nghiệm Động cơ","1992-01-22","Nam","Kỹ sư vận hành khai thác động cơ","Tầng 4 Collected nan",True,True
+168,"243169","Hoàng Như Vũ","vuhn5","0329892232","Trung tâm Động cơ Phản lực Hàng không","Phòng Vận hành và Thử nghiệm Động cơ","1992-01-30","Nam","Kỹ sư vận hành khai thác động cơ","Tầng 4 Collected nan",True,True
+165,"250750","Trần Duy Hải","haitd19","0365855586","Trung tâm Động cơ Phản lực Hàng không","Phòng Vận hành và Thử nghiệm Động cơ","1992-01-13","Nam","Kỹ sư vận hành khai thác động cơ","Tầng 4 Collected nan",True,True
+159,"233707","Hoàng Nhật Minh","minhhn5","0976840260","Trung tâm Động cơ Phản lực Hàng không","Phòng Nghiên cứu và phát triển động cơ","1993-09-16","Nam","Kỹ sư thiết kế hệ thống động cơ","Tầng 4 Collected nan",True,True
+760,"428640","Nguyễn Ngọc Dương","duongnn6","0352649891","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thuật toán chiến thuật","1991-10-01","Nam","Kỹ sư Thuật toán chiến thuật",NULL,True,True
+761,"428235","Trần Đình Hùng","hungtd30","0399425959","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thiết bị kiểm tra","1998-10-10","Nam","Kỹ sư Phần mềm nhúng",NULL,True,True
+762,"428618","Ong Xuân Lộc","locox","0378295626","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thiết bị kiểm tra","1998-01-08","Nam","Kỹ sư Phần mềm Thiết bị kiểm tra",NULL,True,True
+763,"428736","Vũ Ngọc Sơn","sonvn9","0337190000","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1998-10-24","Nam","Kỹ sư Thủy khí",NULL,True,True
+787,"432160","Hoàng Tiến Thắng","thanght3","0357501528","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống điều khiển đài bệ","1999-01-28","Nam","Kỹ sư Thiết kế hệ thống nhúng",NULL,True,True
+794,"433972","Nguyễn Mạnh Hùng","hungnm94","0356069819","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1989-02-27","Nam","Kỹ sư Kiểm soát chất lượng điện, điện tử (QC)",NULL,True,True
+795,"433975","Vũ Đức Tùng","tungvd6","0354149163","Trung tâm Hệ thống Điện nguồn","Phòng Thiết bị điện và nguồn","1999-10-10","Nam","Kỹ sư Thiết kế phần cứng hệ thống điện nguồn",NULL,True,True
+793,"433971","Hoàng Trọng Nghĩa","nghiaht11","0359382325","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1997-05-08","Nam","Kỹ sư Kiểm soát chất lượng cơ khí (QC)",NULL,True,True
+796,"434400","Lê Phan Nhật Minh","minhlpn","0986293309","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Thuật toán điều khiển","1999-09-05","Nam","Kỹ sư Điều khiển thiết bị bay",NULL,True,True
+208,"250745","Trần Bá Huy","huytb3","0963551089","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế Cơ khí Hàng không","1989-10-05","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+209,"204764","Lê Kim Bảo","baolk","0966183568","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế các hệ thống cơ học trên khoang","1990-06-27","Nam","Trưởng phòng Thiết kế các hệ thống cơ học trên khoang","Tầng 10 Collected nan",True,True
+221,"227933","Phùng Quang Huy","huypq25","0968245836","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Kiểm soát công nghệ gia công cơ khí","1994-03-03","Nam","Kỹ sư Cơ khí","Tầng 10 nan nan",True,True
+210,"222160","Trần Quốc Toản","toantq15","0979726115","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế các hệ thống cơ học trên khoang","1993-02-05","Nam","Kỹ sư kỹ thuật hàng không","Tầng 10 Collected nan",True,True
+212,"238563","Nguyễn Duy Tùng","tungnd27","0865469013","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế các hệ thống cơ học trên khoang","1993-07-05","Nam","Kỹ sư kỹ thuật hàng không","Tầng 10 Collected nan",True,True
+213,"241036","Phạm Văn Định","dinhpv4","0989379616","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế các hệ thống cơ học trên khoang","1981-02-20","Nam","Kỹ sư kỹ thuật hàng không","Tầng 10 Collected nan",True,True
+214,"209297","Nguyễn Duy Hưng","hungnd402","0967935120","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Xe Quân sự","1985-02-05","Nam","Kỹ sư Cơ khí động lực","Tầng 10 Collected nan",True,True
+203,"222409","Nguyễn Văn Long","longnv42","0375200915","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Xe Quân sự","1991-01-14","Nam","Kỹ sư Cơ khí","Tầng 10 Collected nan",True,True
+219,"212572","Cao Xuân Duy","duycx","0979183206","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Kiểm soát công nghệ gia công cơ khí","1990-07-22","Nam","Kỹ sư Cơ khí","Tầng 10 Collected nan",True,True
+224,"206404","Nguyễn Đình Nguyên","nguyennd4","0868610188","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ Xử lý bề mặt","1992-11-01","Nam","Trưởng phòng Công nghệ Xử lý bề mặt","Tầng 10 Collected nan",True,True
+226,"237632","Phạm Thị Hiền","hienpt45","0363931276","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ Xử lý bề mặt","1992-12-10","Nữ","Kỹ sư Công nghệ Vật liệu","Tầng 10 Collected nan",True,True
+227,"241544","Nguyễn Ngọc Sơn","sonnn22","0333109299","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ Xử lý bề mặt","1993-11-28","Nam","Kỹ sư Công nghệ Vật liệu","Tầng 10 Collected nan",True,True
+223,"205214","Mai Quốc Công","congmq","0989369658","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1984-10-04","Nam","Trưởng phòng Công nghệ chế thử cơ khí","Tầng 10 Collected nan",True,True
+222,"241545","Võ Anh Tuấn","tuanva31","0338087566","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Kiểm soát công nghệ gia công cơ khí","1992-04-12","Nam","Kỹ sư Cơ khí","Tầng 10 Collected nan",True,True
+218,"204322","Nguyễn Bá Dũng","dungnb6","0868636586","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Kiểm soát công nghệ gia công cơ khí","1988-04-01","Nam","Trưởng phòng Kiểm soát công nghệ gia công cơ khí","Tầng 10 Collected nan",True,True
+225,"208378","Phạm Văn Tùng","tungpv7","0971705556","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1993-03-21","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+806,"434974","Nguyễn Văn Châu Anh","anhnvc","0383637929","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thiết bị kiểm tra","1998-03-16","Nam","Kỹ sư Phần mềm Thiết bị kiểm tra",NULL,True,True
+207,"244088","Nguyễn Phạm Tuân","tuannp2","0372137797","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế các hệ thống cơ học trên khoang","1996-01-21","Nam","Kỹ sư Cơ khí","Tầng 10 Collected nan",True,True
+211,"230064","Nguyễn Quang Uy","uynq69","0349623778","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Xe Quân sự","1991-06-01","Nam","Kỹ sư Cơ khí","Tầng 10 Collected nan",True,True
+215,"240379","Hoàng Trung Hiếu","hieuht34","0963331187","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1987-11-28","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+200,"220555","Đặng Thu Hạnh","hanhdt48","0981171735","Khối Cơ khí - Động lực - Viện HKVT","Nhóm hỗ trợ dự án","1994-08-27","Nữ","Nhân viên Hỗ trợ dự án","Tầng 10 Collected nan",True,True
+201,"218727","Nguyễn Văn Thiện","thiennv17","0848838333","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế Cơ khí Hàng không","1994-05-11","Nam","Trưởng phòng Thiết kế Cơ khí Hàng không","Tầng 10 Collected nan",True,True
+351,"272710","Trần Hồng Việt","vietth5","0969014690","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Thị giác máy tính","1997-08-14","Nam","Kỹ sư Trí tuệ nhân tạo","Tầng 11 Collected nan",True,True
+194,"205134","Vương Đức Tùng","tungvd2","0976903026","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1985-12-19","Nam","Kỹ sư Cơ khí","Tầng 4 Collected nan",True,True
+202,"218923","Lê Thọ Tuấn","tuanlt143","0397546894","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1994-03-20","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+205,"241254","Nguyễn Chí Kiên","kiennc8","0965263368","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế Cơ khí Hàng không","1989-09-07","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+206,"242136","Đỗ Văn Cường","cuongdv26","0343598899","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế Cơ khí Hàng không","1983-02-17","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+196,"218878","Mai Xuân Hải","haimx","0964055172","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1992-06-26","Nam","Kỹ sư Thiết kế kết cấu","Tầng 4 Collected nan",True,True
+197,"228443","Nguyễn Văn Thắng","thangnv66","0978078620","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1981-10-18","Nam","Kỹ sư Thủy khí","Tầng 4 Collected nan",True,True
+217,"243077","Nguyễn Minh Dũng","","0376928406","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1996-10-19","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+199,"201060","Cao Anh Tuấn","tuanca7","0968841188","Khối Cơ khí - Động lực - Viện HKVT","Trung tâm Cơ khí và Công nghệ Chế tạo","1985-10-27","Nam","Giám đốc Trung tâm Cơ khí và Công nghệ Chế tạo","Tầng 10 Collected nan",True,True
+216,"242123","Nguyễn Công Doanh","doanhnc3","0345961199","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1996-04-30","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 nan nan",True,True
+244,"204895","Lê Quân","quanl2","0961394000","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Phần mềm điều khiển bay","1991-10-06","Nam","Kỹ sư Phần mềm điều khiển bay","Tầng 11 Collected nan",True,True
+242,"164982","Nguyễn Văn Tuấn","tuannv40","0973542049","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Hệ thống định vị","1990-01-12","Nam","Kỹ sư Hệ thống Định vị","Tầng 11 Collected nan",True,True
+252,"215356","Trần Hữu Hưng","","0966364172","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Thiết kế Phần mềm điều khiển phóng","1991-10-01","Nam","Kỹ sư Phần mềm điều khiển phóng","Tầng 11 Collected nan",True,False
+697,"290994","Nguyễn Văn Mạnh","manhnv47","0326187981","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống vô tuyến điều khiển hỏa lực phòng không","1998-12-31","Nam","Kỹ sư Thiết kế hệ thống điều khiển vô tuyến",NULL,True,True
+781,"430827","Đoàn Ngọc Minh","minhdn8","0965702899","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1999-09-26","Nam","Kỹ sư phần mềm ứng dụng trên khoang",NULL,False,True
+243,"200933","Tạ Duy Tùng","tungtd10","0984910146","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thiết bị kiểm tra","1991-05-12","Nam","Kỹ sư Phần mềm Thiết bị kiểm tra","Tầng 11 Collected nan",True,True
+248,"251021","Trần Huy Tài","","0986043895","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thiết bị kiểm tra","1995-08-30","Nam","Kỹ sư Phần mềm Thiết bị kiểm tra","Tầng 11 Collected nan",True,False
+238,"247527","Lê Công Huy","huylc5","0396899041","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1995-01-04","Nam","Kỹ sư cơ - điện tử","Tầng 4 Collected nan",True,True
+231,"105236","Nguyễn Thị Thu Hường","huongntt25","0965902555","Viện Hàng không vũ trụ Viettel","Khối Dẫn đường - Điều khiển - Viện HKVT","1983-10-02","Nữ","Nhân viên Hỗ trợ dự án","Tầng 11 Collected nan",True,True
+145,"208986","Nguyễn Trường Giang","giangnt84","0977628357","Trung tâm Động cơ Phản lực Hàng không","Phòng Mô hình và Mô phỏng Động cơ","1992-05-15","Nam","Kỹ sư Mô phỏng hệ thống Động lực","Tầng 4 Collected nan",True,True
+696,"290976","Nguyễn Anh Quang","quangna5","0865747726","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống vô tuyến điều khiển hỏa lực phòng không","1997-08-18","Nam","Kỹ sư Thiết kế hệ thống điều khiển vô tuyến",NULL,True,True
+229,"087214","Nguyễn Cảnh Dương","duongnc","0989086900","Trung tâm Quản lý sản xuất","Ban Giám đốc trung tâm","1986-04-11","Nam","Giám đốc Trung tâm Quản lý sản xuất","Tầng 4  Collected nan",True,True
+260,"200813","Lục Đình Đông","dongld4","0979885709","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Thuật toán điều khiển","1985-10-20","Nam","Kỹ sư Điều khiển thiết bị bay","Tầng 11 Collected nan",True,True
+240,"274262","Nguyễn Quốc Huy","huynq88","0346323825","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1997-01-07","Nam","Kỹ sư cơ - điện tử","Tầng 4 Collected nan",True,True
+262,"227420","Phạm Văn Pháp","phappv","0985918094","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Thuật toán điều khiển","1994-04-21","Nam","Kỹ sư Điều khiển thiết bị bay","Tầng 11 Collected nan",True,True
+246,"238296","Lưu Văn Lực","luclv4","0397140790","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Phần mềm điều khiển bay","1995-11-01","Nam","Kỹ sư Phần mềm điều khiển bay","Tầng 11 Collected nan",True,True
+254,"239801","Vũ Quang Hòa","hoavq4","0972886614","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Thiết kế Phần mềm điều khiển phóng","1995-10-14","Nam","Kỹ sư Phần mềm điều khiển phóng","Tầng 11 Collected nan",True,False
+256,"187013","Nguyễn Đức Anh","anhnd91","0985506742","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Cảm biến quán tính","1989-04-05","Nam","Trưởng phòng Cảm biến quán tính","Tầng 11 Collected nan",True,True
+698,"290977","Hà An Huy","huyha4","0943034128","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1997-05-09","Nam","Kỹ sư Quản lý sản xuất thiết bị bay",NULL,True,False
+237,"236766","Thân Văn Minh","minhtv15","0972071101","Trung tâm Quản lý sản xuất","Phòng Công nghệ sản xuất & Chế thử sản phẩm","1993-11-28","Nam","Kỹ sư kỹ thuật điện - điện tử","Tầng 11 Collected nan",True,True
+253,"215813","Vũ Khả Khởi","","0388777499","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Thiết kế Phần mềm điều khiển phóng","1994-09-05","Nam","Kỹ sư Phần mềm điều khiển phóng","Tầng 11 Collected nan",True,False
+239,"265326","Nguyễn Đại Đồng","dongnd12","0384216840","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế thiết bị điều khiển mặt đất","1993-03-03","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+241,"204771","Hoàng Trọng Biên","bienht","0968242221","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Ban Giám đốc trung tâm","1986-07-22","Nam","Phó Giám đốc Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Tầng 11 Collected nan",True,True
+250,"057755","Đinh Khánh Hà","hadk","0988311313","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Phần mềm điều khiển bay","1981-06-23","Nam","Kỹ sư Phần mềm điều khiển bay","Tầng 11 nan Chua benh",True,True
+236,"233653","Ngô Quang Sĩ","sinq","0378823845","Trung tâm Hệ thống Điện tử - Điều khiển - Viện HKVT","Phòng Thiết kế phần cứng","1994-04-27","Nam","Kỹ sư Thiết kế phần cứng điều khiển","quitted",NULL,False
+235,"214507","Nguyễn Văn Quân","quannv153","0979307840","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế thiết bị điều khiển mặt đất","1993-11-15","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+6,"007296","Đinh Thế Cường","cuongdt3","0961918668","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1980-10-13","Nam","Nhân viên Hành chính","Tầng 9 nan mieu mon",False,True
+756,"010607","Phạm Hồng Phú","phuph","0989995581","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1981-02-15","Nam","Nhân viên Quản lý tài sản",NULL,True,True
+234,"209291","Phạm Tất Đạt","datpt16","0868602169","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế thiết bị điều khiển mặt đất","1990-06-21","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+757,"428617","Hồ Minh Đại","daihm1","0979876045","Trung tâm Quản lý chất lượng","Phòng Đo lường thử nghiệm","1991-10-24","Nam","Kỹ sư đo lường, thử nghiệm ",NULL,True,True
+268,"108998","Đàm Thế Hiếu","hieudt8","0981461085","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Lập trình nhúng ","1985-06-14","Nam","Trưởng phòng Lập trình nhúng ","Tầng 11 Collected nan",True,True
+271,"229206","Nguyễn Trắc Toàn","toannt28","0963990168","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Lập trình nhúng ","1996-04-18","Nam","Kỹ sư Thiết kế hệ thống nhúng điều khiển","Tầng 11 Collected nan",True,True
+269,"243532","Nguyễn Hữu Thuấn","thuannh7","0969159510","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Lập trình nhúng ","1996-09-21","Nam","Kỹ sư Thiết kế hệ thống nhúng điều khiển","Tầng 11 Collected nan",True,True
+263,"228815","Nguyễn Đình Đồng","dongnd6","0967963726","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Hệ thống mô phỏng điều khiển","1991-07-16","Nam","Kỹ sư Mô phỏng điều khiển","Tầng 11 Collected nan",True,True
+265,"209292","Vũ Nghĩa Bắc","bacvn","0968631415","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Hệ thống định vị","1988-02-20","Nam","Kỹ sư Hệ thống Định vị","Tầng 11 Collected nan",True,True
+264,"265325","Chu Trọng Sử","suct1","0967942637","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Hệ thống định vị","1989-01-17","Nam","Kỹ sư Hệ thống Định vị","Tầng 11 Collected nan",True,True
+273,"099800","Nguyễn Thị Lan Anh","anhntl3","0969515081","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1983-06-02","Nữ","Trưởng phòng Phân tích nghiệp vụ và thử nghiệm","Tầng 11 Collected nan",True,True
+278,"198160","Hà Thị Diệu","dieuht1","0866628638","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1990-12-31","Nữ","Kỹ sư Phân tích nghiệp vụ","Tầng 11 Collected nan",True,True
+297,"122657","Lê Đình Tiến","tienld2","0982308735","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống xử lý tình huống trên không","1987-10-26","Nam","Kỹ sư Lập trình FPGA","Tầng 10 Collected nan",True,True
+276,"085103","Đỗ Quang Thành","thanhdq","0985258585","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1985-10-14","Nam","Kỹ sư Linh kiện","Tầng 4  Collected nan",True,True
+281,"272544","Nguyễn Tuấn Đạt","datnt98","0393301933","Trung tâm Quản lý sản xuất","Phòng Công nghệ sản xuất & Chế thử sản phẩm","1993-05-13","Nam","Kỹ sư Quy trình công nghệ","Tầng 11 Collected nan",True,True
+296,"239815","Đỗ Quốc Toản","toandq7","0972599654","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1994-10-08","Nam","Kỹ sư Thiết kế Siêu cao tần","Tầng 4 Collected nan",True,True
+703,"017885","Nguyễn Việt Dũng","vietdung",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+811,"190358","Nguyễn An Ninh","ninhna5","0988236157","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1991-12-06","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+285,"186818","Nguyễn Mạnh Quyết","quyetnm2","0985241909","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế anten - đường truyền","1988-01-24","Nam","Trưởng phòng Thiết kế anten - đường truyền","Tầng 4 Collected nan",True,True
+287,"214704","Dương Thanh Tùng","tungdt28","0388868649","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế anten - đường truyền","1993-06-24","Nam","Kỹ sư Thiết kế Anten","Tầng 4 Collected nan",True,True
+275,"060600","Phan Hữu Chính","chinhph","0975856681","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1984-04-22","Nam","Kỹ sư quản lý cấu hình","Tầng 11 Collected nan",True,True
+298,"177919","Vương Đình Phong","phongvd2","0396899234","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý tín hiệu ra đa","1990-06-16","Nam","Kỹ sư Phần mềm Xử lý tín hiệu","Tầng 11 Collected nan",True,True
+288,"240380","Nguyễn Công Thuần","thuannc","0379237324","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý tín hiệu ra đa","1992-12-12","Nam","Kỹ sư Xử lý Tín hiệu vô tuyến","Tầng 11 Collected nan",True,True
+277,"194836","Lê Huệ Phương","phuonglh11","0374357145","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1991-07-27","Nữ","Kỹ sư Phân tích nghiệp vụ","Tầng 11 Collected nan",True,True
+282,"059525","Lê Thị Hằng","hanglt","0974225670","Trung tâm Đầu tự dẫn vô tuyến","Ban Giám đốc trung tâm","1985-06-03","Nữ","Giám đốc Trung tâm Đầu tự dẫn vô tuyến","Tầng 11 Collected nan",True,True
+266,"205507","Dương Trường Giang","giangdt24","0356102590","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1991-12-05","Nam","Kỹ sư kỹ thuật điện - điện tử","quitted",NULL,False
+283,"185499","Trác Văn Kỳ","kytv2","0968135988","Trung tâm Đầu tự dẫn vô tuyến","Ban Giám đốc trung tâm","1986-02-02","Nam","Phó Giám đốc Trung tâm Đầu tự dẫn vô tuyến","Tầng 11 Collected nan",True,True
+284,"264578","Bùi Cẩm Liên","lienbc","0376762132","Viện Hàng không vũ trụ Viettel","Khối Dẫn đường - Điều khiển - Viện HKVT","1994-01-11","Nữ","Nhân viên Hỗ trợ dự án","quitted",NULL,False
+286,"102605","Trần Đức Long","longtd1","0977647885","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1985-01-05","Nam","Kỹ sư Antenna","Tầng 11 Collected nan",True,True
+290,"087317","Đinh Ngọc Việt Tùng","tungdnv1","0978541122","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý tín hiệu ra đa","1985-09-21","Nam","Trưởng phòng Xử lý tín hiệu ra đa","Tầng 11 Collected nan",True,True
+292,"240173","Đinh Trọng Quang","quangdt10","0963585510","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thử nghiệm và tối ưu hệ thống","1983-03-13","Nam","Kỹ sư kiểm thử cao tần","Tầng 11 Collected nan",True,True
+704,"140777","Nguyễn Anh Dũng","dungna11",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+807,"KH1000","Lê Thị Huyền",NULL,"0984765911","VIP",NULL,NULL,NULL,NULL,NULL,False,False
+289,"271358","Nguyễn Văn Sang","sangnv29","0868289998","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1998-12-04","Nam","Kỹ sư Thiết kế Siêu cao tần","Tầng 4 Collected nan",True,True
+808,"KH1001","Phạm Minh Phúc",NULL,"0353261464","VIP",NULL,NULL,NULL,NULL,NULL,False,False
+809,"KH1002","Phạm Huy Hoàng",NULL,"0367131397","VIP",NULL,NULL,NULL,NULL,NULL,False,False
+699,"KH0004","Đỗ Cao Kiên","NaN","0986611927","Z181",NULL,NULL,NULL,"Giám Đốc","guest",False,False
+701,"KH0006","Nguyễn Công Minh","NaN","0988706906","Z181",NULL,NULL,NULL,"Trưởng phòng NCPT","guest",False,False
+700,"KH0005","Lê Hải Ninh","NaN","0392276033","Z181",NULL,NULL,NULL,"Trưởng phòng Kế hoạch","guest",False,False
+705,"039771","Lê Minh Dược","duoclm",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+706,"006505","Bùi Ngọc Điệp","ngocdieptn",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+318,"207899","Nguyễn Anh Đức","ducna17","0356622202","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1992-10-20","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+316,"263505","Nguyễn Văn Nhanh","nhanhnv","0336703327","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1996-10-17","Nam","Kỹ sư Thiết kế Siêu cao tần","Tầng 4 Collected nan",True,True
+309,"209608","Hoàng Minh Phương","phuonghm","0346580672","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế anten - đường truyền","1993-09-22","Nam","Kỹ sư cơ - điện tử","Tầng 4 Collected nan",True,True
+323,"243325","Nguyễn Thị Hồng Vân","vannth23","0972535896","Viện Hàng không vũ trụ Viettel","Khối Điện - Điện tử - Viện HKVT","1996-01-03","Nữ","Nhân viên Hỗ trợ dự án","Tầng 11 Collected nan",True,True
+319,"207901","Lê Đình Hưng","hungld21","0981144011","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1991-08-28","Nam","Kỹ sư mô phỏng cao tần","Tầng 11 Collected nan",True,True
+310,"222335","Nguyễn Văn Tùng","tungnv27","0969732823","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1994-08-20","Nam","Kỹ sư Cơ khí truyền động","Tầng 11 Collected nan",True,True
+311,"246814","Lưu Xuân Bách","bachlx2","0385976826","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1996-09-07","Nam","Kỹ sư Cơ khí truyền động","Tầng 11 Collected nan",True,True
+302,"105757","Nguyễn Hoài Sơn","sonnh13","0983210487","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1987-04-21","Nam","Trưởng phòng Hệ thống Điều khiển","Tầng 11 Collected nan",True,True
+304,"245303","Trần Doãn Xuân","xuantd","0328681113","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1996-12-12","Nam","Kỹ sư Điện-Điều khiển","Tầng 11 Collected nan",True,True
+812,"435573","Nguyễn Báu","baun2","0966985097","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1997-11-06","Nam","Kỹ sư Cơ khí truyền động",NULL,True,True
+305,"245304","Phạm Tân Long","longpt10","0966938608","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1996-12-09","Nam","Kỹ sư Điện-Điều khiển","Tầng 11 Collected nan",True,True
+710,"001834","Đỗ Minh Phương","phuongdm","0359018624","VIP",NULL,NULL,NULL,NULL,"guest",False,False
+331,"296734","Nguyễn Quang Huy","huynq62","0982742828","Trung tâm Hệ thống Điện nguồn","Phòng Chế thử và Thử nghiệm hệ thống điện","1993-12-12","Nam","Kỹ sư Xây dựng quy trình","Tầng 4 Collected nan",True,True
+333,"240837","Lương Văn Tấn","tanlv9","0987516360","Trung tâm Hệ thống Điện nguồn","Phòng Thiết bị điện và nguồn","1994-12-29","Nam","Kỹ sư Thiết kế phần cứng hệ thống điện nguồn","Tầng 4 Collected nan",True,True
+335,"273703","Nguyễn Gia Thiều","thieung","0967605871","Trung tâm Hệ thống Điện nguồn","Phòng Thiết bị điện và nguồn","1998-04-05","Nam","Kỹ sư Thiết kế phần mềm nhúng","Tầng 4 Collected nan",True,True
+317,"102876","Bùi Minh Hải","haibm1","0986999826","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1986-09-29","Nam","Kỹ sư Thiết kế phần cứng","Tầng 4 Collected nan",True,True
+320,"274263","Trần Đình Quang","quangtd17","0982543562","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1994-03-01","Nam","Kỹ sư Thiết kế Siêu cao tần","Tầng 4 Collected nan",True,True
+308,"273399","Tạ Mạnh Tuyên","tuyentm4","0379682409","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1997-01-10","Nam","Kỹ sư Điện-Điều khiển","Tầng 11 Collected nan",True,True
+312,"178294","Vũ Thành Công","congvt6","0383020189","Trung tâm Đầu tự dẫn vô tuyến","Phòng Kỹ thuật tác chiến điện tử","1988-01-02","Nam","Trưởng phòng Kỹ thuật tác chiến điện tử","Tầng 11 Collected nan",True,True
+313,"209042","Nguyễn Mạnh Khang","khangnm","0359019480","Trung tâm Đầu tự dẫn vô tuyến","Phòng Kỹ thuật tác chiến điện tử","1994-05-15","Nam","Kỹ sư Phát triển phần mềm nhúng","Tầng 11 Collected nan",True,True
+301,"265327","Đàm Trọng Nam","namdt19","0966764266","Trung tâm Đầu tự dẫn vô tuyến","Phòng Kỹ thuật tác chiến điện tử","1989-11-08","Nam","Kỹ sư Phần mềm Xử lý tín hiệu","Tầng 11 Collected nan",True,True
+315,"275337","Phan Thị Kim Chinh","chinhptk","0357635454","Trung tâm Đầu tự dẫn vô tuyến","Phòng Kỹ thuật tác chiến điện tử","1998-02-15","Nữ","Kỹ sư Phần mềm Xử lý tín hiệu","Tầng 11 Collected nan",True,True
+299,"238114","Thái Quang Thành","thanhtq14","0973280048","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý thông tin","1992-12-21","Nam","Kỹ sư Phần mềm Xử lý thông tin","Tầng 11 Collected nan",True,True
+303,"207670","Lã Tuấn Anh","anhlt131","0963355488","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thử nghiệm và tối ưu hệ thống","1981-01-18","Nam","Kỹ sư phát triển phần cứng","Tầng 11 Collected nan",True,True
+328,"275340","Trần Xuân Trường","truongtx17","0962450396","Trung tâm Hệ thống Điện nguồn","Phòng Thiết kế hệ thống điện","1998-12-13","Nam","Kỹ sư Thiết kế hệ thống điện hàng không","Tầng 4 Collected nan",True,True
+360,"272703","Nguyễn Phong Lưu","luunp2","0948622933","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1997-04-01","Nam","Kỹ sư lập trình Xử lý tín hiệu","Tầng 11 Collected nan",True,True
+327,"242122","Phạm Văn Hòa","hoapv21","0345066365","Trung tâm Hệ thống Điện nguồn","Phòng Thiết bị điện và nguồn","1992-09-15","Nam","Kỹ sư Thiết kế phần cứng hệ thống điện nguồn","Tầng 4 Collected nan",True,True
+324,"114618","Trần Văn Đăng","dangtv1","0986244059","Trung tâm Hệ thống Điện nguồn","Phòng Thiết bị điện và nguồn","1971-06-16","Nam","Kỹ sư Thiết kế phần cứng hệ thống điện nguồn","Tầng 4 Collected nan",True,True
+326,"240381","Ngô Quang Sơn","sonnq3","0968392796","Trung tâm Hệ thống Điện nguồn","Phòng Thiết bị điện và nguồn","1995-03-21","Nam","Kỹ sư Thiết kế phần mềm nhúng","Tầng 4 Collected nan",True,True
+300,"241550","Nguyễn Công Vinh","vinhnc2","0978229143","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý thông tin","1992-06-25","Nam","Kỹ sư Phần mềm Xử lý thông tin","Tầng 11 Collected nan",True,False
+358,"265814","Lê Bá Cường","","0987805426","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1997-04-15","Nam","Kỹ sư lập trình Xử lý tín hiệu","Tầng 11 Collected nan",True,True
+709,"089419","Cấn Long Giang","giangcl",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+713,"KH0020","Ha Thanh","NaN",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+711,"000181","Lê Đăng Dũng","dungld",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+346,"218777","Nguyễn Tiến Đạt","datnt527","0359018624","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Thị giác máy tính","1994-01-26","Nam","Kỹ sư Trí tuệ nhân tạo","Tầng 11 Collected nan",True,True
+813,"435586","Nguyễn Trương Việt Anh","anhntv54","0976928306","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1999-04-30","Nam","Kỹ sư Vật liệu Composite và Công nghệ chế tạo",NULL,True,True
+347,"236573","Bùi Quang Minh","minhbq6","0364105691","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Thị giác máy tính","1996-11-11","Nam","Kỹ sư Xử lý ảnh","Tầng 11 Collected nan",True,True
+814,"435576","Vũ Quốc Việt","vietvq3","0349004090","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống tác chiến phòng không","2000-04-05","Nam","Kỹ sư Phát triển giải thuật tác chiến phòng không",NULL,True,True
+354,"214412","Phạm Văn Tiến","tienpv62","0975783537","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Điều khiển và Tích hợp thử nghiệm","1994-01-04","Nam","Kỹ sư mô hình hóa và mô phỏng","Tầng 11 Collected nan",True,True
+357,"243321","Nguyễn Huy Đức","","0961897497","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Điều khiển và Tích hợp thử nghiệm","1996-03-25","Nam","Kỹ sư điều khiển hệ thống","Tầng 11 Collected nan",True,False
+355,"214433","Mạc Lưu Phong","phongml","0354425116","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Điều khiển và Tích hợp thử nghiệm","1994-12-11","Nam","Kỹ sư điều khiển hệ thống","Tầng 11 Collected nan",True,True
+349,"270050","Nguyễn Thanh Đức","","0378953498","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Thị giác máy tính","1999-07-20","Nam","Kỹ sư Xử lý ảnh","Tầng 11 Collected nan",True,False
+816,"435583","Nguyễn Văn Hiếu","hieunv59","0374644622","Trung tâm Quản lý sản xuất","Phòng Công nghệ sản xuất & Chế thử sản phẩm","1997-08-01","Nam","Kỹ sư Linh kiện",NULL,True,True
+369,"066667","Lý Thanh Toàn","toanlt3","0972950909","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Kiểm soát chất lượng","1982-08-26","Nam","Kỹ sư Kiểm soát chất lượng tích hợp","Tầng 4 Collected nan",True,True
+350,"270258","Thái Văn Chiến","chientv13","0344019761","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Thị giác máy tính","1999-11-29","Nam","Kỹ sư Xử lý ảnh","Tầng 11 Collected nan",True,True
+343,"087343","Bùi Văn Công","congbv","0977505678","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Điều khiển và Tích hợp thử nghiệm","1985-03-12","Nam","Trưởng phòng Điều khiển và Tích hợp thử nghiệm","Tầng 11 Collected nan",True,True
+815,"435561","Phan Minh Hải","haipm12","0357505362","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1997-11-03","Nam","Kỹ sư Công nghệ Vật liệu vũ trụ",NULL,False,True
+342,"241540","Ngô Phương Thảo","","0984974413","Viện Hàng không vũ trụ Viettel","Khối Dẫn đường - Điều khiển - Viện HKVT","1995-07-04","Nữ","Nhân viên Hỗ trợ dự án","Tầng 11 Collected nan",True,False
+365,"220560","Nguyễn Anh Tú","tuna21","0964074917","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Phần mềm hệ thống quang học","1994-02-18","Nam","Trưởng phòng Phần mềm hệ thống quang học","Tầng 11 Collected nan",True,True
+338,"240775","Ngô Cao Cường","cuongnc24","0984447204","Trung tâm Hệ thống Điện nguồn","Phòng Phối trí và Mô phỏng hệ thống điện","1989-08-12","Nam","Kỹ sư phối trí hệ thống điện hàng không","Tầng 4 Collected nan",True,True
+368,"244957","Phạm Thị Huê","huept21","0869836938","Viện Hàng không vũ trụ Viettel","Khối Sản xuất - Viện HKVT","1991-05-25","Nữ","Nhân viên Hỗ trợ dự án","Tầng 4  Collected nan",True,True
+367,"122352","Trần Anh Đức","ducta","0366136999","Khối Sản xuất - Viện HKVT","Nhà máy Tổng lắp thiết bị Hàng không","1985-05-29","Nam","Giám đốc Nhà máy Tổng lắp thiết bị Hàng không","Tầng 4 Collected nan",True,True
+340,"237408","Nguyễn Thế Hứa","huant41","0965001399","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1981-01-31","Nam","Kỹ thuật viên Điện - Điện tử","Tầng 4  Collected nan",True,True
+339,"200793","Đỗ Văn Hòe","hoedv","0985898991","Trung tâm Hệ thống Điện nguồn","Phòng Chế thử và Thử nghiệm hệ thống điện","1982-06-10","Nam","Kỹ sư Công nghệ sản xuất","Tầng 4 Collected nan",True,True
+341,"206424","Trần Tiến Hải","haitt27","0868888980","Trung tâm Đầu tự dẫn Quang điện tử","Ban Giám đốc trung tâm","1983-05-31","Nam","Giám đốc Trung tâm Đầu tự dẫn Quang điện tử","Tầng 11 Collected nan",False,False
+372,"275331","Tạ Hồng Sơn","sonth20","0989946588","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Kiểm soát chất lượng","1995-10-30","Nam","Kỹ sư Kiểm soát chất lượng tích hợp","Tầng 4 Collected nan",True,True
+348,"270043","Phạm Trung Dũng","dungpt62","0986560273","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Phần mềm hệ thống quang học","1997-12-05","Nam","Kỹ sư lập trình ứng dụng","Tầng 11 Collected nan",True,True
+363,"228814","Nguyễn Thanh Lượng","luongnt19","0868643777","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế Cơ khí Hàng không","1991-10-03","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+366,"271359","Lê Trọng Nhân","nhanlt23","0398186395","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Phần mềm hệ thống quang học","1999-08-01","Nam","Kỹ sư lập trình ứng dụng","Tầng 11 Collected nan",True,False
+353,"213087","Nguyễn Văn Đua","","0356351561","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1994-05-15","Nam","Kỹ sư thiết kế hệ thống Xử lý tín hiệu","Tầng 11 Collected nan",True,False
+356,"214434","Vũ Duy Việt","vietvd3","0384220963","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1994-08-21","Nam","Kỹ sư lập trình Xử lý tín hiệu","Tầng 11 Collected nan",True,True
+716,"006038","Phạm Thị Thu Hương","huongpham",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+718,"KH0010","Cao Son","NaN",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+719,"007979","Trương Thị Thu Hà","hatt",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+720,"014621","Nguyễn Địch Tuấn Anh","tuananh",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+402,"273701","Đinh Lâm Bảo","baodl","0832948888","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1998-11-01","Nam","Kỹ sư Thiết kế hệ nhúng","Tầng 10 Collected nan",True,True
+403,"273702","Trần Nam Anh","anhtn50","0362746333","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1998-05-08","Nam","Kỹ sư Thiết kế hệ nhúng","Tầng 10 Collected nan",True,True
+404,"205239","Hoàng Như Minh","minhhn4","0365453024","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống tác chiến phòng không","1993-10-19","Nam","Kỹ sư Phần mềm tác chiến phòng không","Tầng 10 Collected nan",True,True
+405,"223064","Trịnh Bá Huy","huytb2","0969358516","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống tác chiến phòng không","1991-02-13","Nam","Kỹ sư Phát triển giải thuật tác chiến phòng không","Tầng 10 Collected nan",True,True
+406,"230063","Hoàng Tuấn Dũng","dunght35","0985099702","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu phát triển hệ thống thử nghiệm","1985-05-11","Nam","Trưởng phòng Nghiên cứu Phát triển Hệ thống Thử nghiệm","Tầng 10 Collected nan",True,True
+408,"265813","Cao Anh Tú","tuca","0393006339","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu phát triển hệ thống thử nghiệm","1997-02-28","Nam","Kỹ sư Thiết kế hệ thống thử nghiệm","Tầng 10 Collected nan",True,True
+409,"087203","Đoàn Duy Hưng","hungdd1","0973803333","Khối TL Đối không - Viện HKVT","Trung tâm Ra đa điều khiển","1984-11-02","Nam","Giám đốc Trung tâm Ra đa Điều khiển","Tầng 10 Collected nan",True,True
+410,"178233","Hoàng Anh Sơn","sonha","0389983990","Khối TL Đối không - Viện HKVT","Trung tâm Ra đa điều khiển","1990-03-08","Nam","Phó Giám đốc Trung tâm Ra đa Điều khiển","Tầng 10 Collected nan",True,True
+379,"243075","Hà Xuân Bách","bachhx","0976228904","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1993-01-24","Nam","Kỹ sư Tích hợp Cơ trên khoang","Tầng 4  Collected nan",True,True
+373,"265464","Ngô Xuân Hảo","haonx2","0345545125","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1996-09-28","Nam","Kỹ sư Tích hợp Cơ trên khoang","Tầng 4  Collected nan",True,True
+375,"207117","Nguyễn Mạnh Hà","hanm19","0966929995","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1992-01-15","Nam","Trưởng phòng Công nghệ Tích hợp","Tầng 4 Collected nan",True,True
+380,"272701","Lê Việt Trung","trunglv15","0337246363","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1998-08-30","Nam","Kỹ sư Tích hợp Cơ trên khoang","Tầng 4  Collected nan",True,True
+381,"273699","Vương Văn Thành","thanhvv11","0364164541","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1997-08-13","Nam","Kỹ sư Tích hợp hàng không","Tầng 4  Collected nan",True,True
+385,"207115","Phạm Hoàng Thái","thaiph4","0375812202","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Thiết bị đo chuyên dụng","1992-12-12","Nam","Trưởng phòng Thiết bị đo chuyên dụng","Tầng 4  Collected nan",True,True
+386,"211717","Nguyễn Thị Ngọc Anh","anhntn332","0379223886","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Thiết bị đo chuyên dụng","1994-11-05","Nữ","Kỹ sư Đo lường","Tầng 4  Collected nan",True,True
+387,"115499","Lê Quang Hùng","hunglq8","0976611886","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1984-10-12","Nam","Kỹ sư tổng lắp","Tầng 4  Collected nan",True,True
+388,"204407","Nguyễn Duy Thanh","thanhnd31","0975082073","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1991-07-01","Nam","Nhân viên Quản lý tài sản","Tầng 4  nan lv ben xuong",True,True
+374,"269204","Phạm Duy Trọng Văn","vanpdt","0358949663","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1992-10-20","Nam","Kỹ sư Tích hợp Cơ khí","Tầng 4  Collected nan",True,True
+758,"428232","Nguyễn Trung Kiên","kiennt90","0978922888","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1996-12-20","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+389,"054634","Bùi Đức Hùng","hungbd","0989116969","Khối TL Đối không - Viện HKVT","Ban Giám đốc khối","1984-03-02","Nam","Giám đốc Khối TL Đối không","Tầng 10 Collected nan",True,True
+729,"011315","Dương Văn Toàn","toandv",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+396,"214424","Lê Xuân Định","dinhlx","0345286752","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống điều khiển đài bệ","1994-10-23","Nam","Kỹ sư Thiết kế hệ thống nhúng","Tầng 10 Collected nan",True,True
+397,"214436","Phan Anh Việt","vietpa","0387771465","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống điều khiển đài bệ","1994-10-25","Nam","Kỹ sư Thiết kế hệ thống nhúng","Tầng 10 Collected nan",True,True
+398,"206903","Nguyễn Viết Hưởng","huongnv10","0349606530","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1994-07-03","Nam","Trưởng phòng Nghiên cứu Hệ thống Quan sát Không gian","Tầng 10 nan nan",True,True
+791,"433458","Đinh Tuấn Anh","anhdt181","0378153678","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","2000-07-31","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+376,"218110","Trịnh Viết Khiêm","khiemtv3","0989563715","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1995-08-22","Nam","Kỹ sư Tích hợp hàng không","Tầng 4 Collected nan",True,True
+377,"222491","Đỗ Quang Huy","huydq23","0348494349","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1994-02-24","Nam","Kỹ sư Tích hợp hàng không","Tầng 4 Collected nan",True,True
+378,"239816","Nguyễn Tuấn Minh","minhnt53","0377697576","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1995-01-08","Nam","Kỹ sư Mô phỏng sản xuất","Tầng 4  Collected nan",True,True
+382,"296735","Đặng Quang Hải","haidq1","0987280069","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1984-12-17","Nam","Kỹ sư Tích hợp Điện - Điện tử","Tầng 4  Collected nan",True,True
+392,"206887","Đào Bá Duy","duydb","0389894130","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống huấn luyện phòng không","1993-09-25","Nam","Kỹ sư Thiết kế phần mềm huấn luyện phòng không","Tầng 10 Collected nan",True,True
+395,"207671","Nguyễn Hữu Hải","hainh36","0389242256","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống điều khiển đài bệ","1993-12-22","Nam","Trưởng phòng Nghiên cứu Hệ thống Điều khiển Đài-Bệ","Tầng 10 Collected nan",True,True
+393,"265461","Nguyễn Văn An","annv297","0356199194","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống điều khiển đài bệ","1997-05-05","Nam","Kỹ sư Thiết kế hệ thống nhúng","quitted",NULL,False
+772,"293754","Nguyễn Hoàng Nam","namnh101","0393860730","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Kiểm soát công nghệ gia công cơ khí","1999-07-30","Nam","Kỹ sư Cơ khí",NULL,True,True
+417,"239814","Nguyễn Thọ Hiệp","hiepnt20","0329761202","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống xử lý tình huống trên không","1994-05-09","Nam","Kỹ sư Xử lý số tín hiệu","Tầng 10 Collected nan",True,True
+415,"265818","Vũ Đăng Quang","quangvd8","0964324676","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống vô tuyến điều khiển hỏa lực phòng không","1996-05-15","Nam","Kỹ sư Thiết kế hệ thống điều khiển vô tuyến","Tầng 10 Collected nan",True,True
+424,"236919","Hồ Anh Tuấn","tuanha32","0964601110","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Kết cấu-cơ khí đạn phòng không","1995-02-07","Nam","Kỹ sư Khí động lực học đạn phòng không","Tầng 10 Collected nan",True,True
+418,"205106","Vũ Xuân Hưởng","huongvx1","0988742418","Khối TL Đối không - Viện HKVT","BU ĐK-S2","1984-01-31","Nam","Trưởng Dự án BU ĐK-S2","Tầng 10 Collected nan",True,True
+714,"044716","Nguyễn Chí Dũng","dungnc",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+731,"016085","Hoàng Sơn","sonh",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+413,"222558","Dương Quốc Toản","toandq5","0983949103","Khối TL Đối không - Viện HKVT","BU ĐK-S2","1988-02-29","Nam","Kỹ sư Quản lý công nghệ","Tầng 10 Collected nan",True,True
+425,"241257","Phạm Văn Hưng","hungpv56","0382429281","Khối TL Đối không - Viện HKVT","BU ĐK-S2","1992-06-24","Nam","Kỹ sư Quản lý đề tài","Tầng 10 nan nan",True,True
+771,"430720","Nguyễn Đình Nam","namnd36","0345688551","Trung tâm Kết cấu, Vật liệu","Phòng Mô phỏng và Thiết kế","1996-02-10","Nam","Kỹ sư Tính toán mô phỏng",NULL,True,True
+770,"430753","Dương Diễm Quỳnh","quynhdd","0349412917","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Điều khiển và Tích hợp thử nghiệm","1999-09-17","Nữ","Kỹ sư Thử nghiệm",NULL,True,True
+411,"237625","Nguyễn Ngọc Ánh","anhnn84","0364473168","Viện Hàng không vũ trụ Viettel","Khối TL Đối không - Viện HKVT","1995-03-14","Nữ","Nhân viên Hỗ trợ dự án","Tầng 10 Collected nan",True,True
+423,"244733","Hoàng Nhật Phương","phuonghn6","0978986036","Viện Hàng không vũ trụ Viettel","Khối TL Đối không - Viện HKVT","1995-07-08","Nữ","Nhân viên Hỗ trợ dự án","Tầng 10 Collected nan",True,True
+441,"116282","Trần Bá Quỳnh","quynhtb","0983389354","Trung tâm Khí cụ bay - Viện HKVT","Ban Giám đốc trung tâm","1983-05-26","Nam","Phó Giám đốc","quitted",NULL,False
+443,"187734","Trần Đình Thắng","thangtd10","0971786066","Trung tâm Khí cụ bay - Viện HKVT","Phòng Khí động, động lực","1986-05-10","Nam","Trưởng phòng Thiết kế Khí động và Động lực","quitted",NULL,False
+445,"213899","Đinh Anh Bảo","baoda","0356206619","Trung tâm Khí cụ bay - Viện HKVT","Phòng Khí động, động lực","1991-11-08","Nam","Kỹ sư Khí động lực học","quitted",NULL,False
+446,"260581","Dương Đăng Bách","bachdd1","0379707256","Trung tâm Khí cụ bay - Viện HKVT","Phòng Khí động, động lực","1994-03-10","Nam","Kỹ sư Khí động lực học","quitted",NULL,False
+773,"430006","Vũ Ngọc Ánh","anhvn19","0354277352","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1995-09-01","Nam","Kỹ sư thiết kế hệ thống vệ tinh viễn thám",NULL,False,True
+412,"207457","Nguyễn Phú Mạnh","manhnp3","0868912608","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu Hệ thống chỉ thị mục tiêu","1995-08-26","Nam","Trưởng phòng Nghiên cứu Hệ thống chỉ thị mục tiêu","Tầng 10 Collected nan",True,True
+416,"273919","Trần Hùng Anh Quân","quantha","0329838793","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu Hệ thống chỉ thị mục tiêu","1997-11-01","Nam","Kỹ sư Thiết kế Anten","Tầng 10 Collected nan",True,True
+419,"222156","Hoàng Tuấn Vũ","vuht8","0347535262","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống điện động lực phòng không","1993-06-30","Nam","Kỹ sư Thiết kế hệ thống điện công suất","Tầng 10 Collected nan",True,True
+420,"225200","Nguyễn Quang Huy","huynq66","0395188556","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống điện động lực phòng không","1989-08-27","Nam","Kỹ sư Thiết kế hệ thống điện tử","Tầng 10 Collected nan",True,True
+421,"237631","Nguyễn Việt Kiên","kiennv19","0357967319","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống điện động lực phòng không","1995-05-01","Nam","Kỹ sư Thiết kế hệ thống điện tử","Tầng 10 Collected nan",True,True
+767,"430474","Lê Đình Hoàng","hoangld14","0977843785","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Thiết kế Phần mềm điều khiển phóng","1999-09-10","Nam","Kỹ sư Phần mềm nhúng",NULL,True,True
+768,"284024","Lê Công Nhật Anh","anhlcn1","0942013433","Trung tâm Đầu tự dẫn vô tuyến","Phòng Kỹ thuật tác chiến điện tử","1999-10-30","Nam","Kỹ sư Phát triển phần mềm nhúng",NULL,True,True
+774,"430209","Tạ Trần Quang Huy","huyttq","0364797258","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1999-07-26","Nam","Kỹ sư thiết kế hệ thống vệ tinh viễn thám",NULL,False,True
+702,"011351","Tào Đức Thắng","thangtd","0359018624","VIP",NULL,NULL,NULL,"Phó Tổng giám đốc","guest",False,False
+707,"010277","Đỗ Thanh Tú","dothanhtu",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+730,"006552","Nguyễn Hà Thành","hathanh",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+788,"432465","Dương Thế Tài","taidt10","0963883254","Trung tâm Hệ thống Điện nguồn","Phòng Thiết kế hệ thống điện","1999-10-20","Nam","Kỹ sư Thiết kế hệ thống điện hàng không",NULL,True,True
+789,"432422","Nguyễn Khắc Toàn","toannk8","0345065906","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu Hệ thống chỉ thị mục tiêu","1999-09-04","Nam","Kỹ sư Thiết kế Anten",NULL,True,True
+790,"432421","Nguyễn Văn Tráng","trangnv10","0376247821","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống điện động lực phòng không","1998-05-13","Nam","Kỹ sư Thiết kế hệ thống điện công suất",NULL,True,True
+440,"045113","Nguyễn Khắc Tháp","thapnk","0983063945","Trung tâm Khí cụ bay - Viện HKVT","Ban Giám đốc trung tâm","1984-06-30","Nam","Giám đốc","quitted",NULL,False
+797,"434414","Phùng Thế Mạnh","manhpt5","0989463960","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1996-08-28","Nam","Kỹ sư Thiết kế cơ khí",NULL,True,True
+775,"430729","Lương Đức Nguyên","nguyenld8","0364834599","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1998-02-25","Nam","Nhân viên quản lý đề tài",NULL,True,True
+776,"430725","Lê Đại Dương","duongld13","0981790828","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Tích hợp thử nghiệm và triển khai hệ thống thông tin trường bắn","1997-09-06","Nam","Kỹ sư tích hợp hệ thống thông tin trường bắn",NULL,True,True
+732,"291705","Ngô Quang Vĩnh","vinhnq27","0389162299","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1998-11-25","Nam","Kỹ sư Tích hợp hàng không",NULL,True,True
+448,"272698","Hoàng Đình Hoan","","0984637685","Trung tâm Khí cụ bay - Viện HKVT","Phòng Khí động, động lực","1999-06-05","Nam","Kỹ sư Khí động lực học","quitted",NULL,False
+449,"272715","Vũ Văn Đại","","0989537385","Trung tâm Khí cụ bay - Viện HKVT","Phòng Khí động, động lực","1998-03-03","Nam","Kỹ sư Khí động lực học","quitted",NULL,False
+450,"139593","Trần Quyết Thắng","thangtq7","0975254774","Trung tâm Khí cụ bay - Viện HKVT","Phòng Cơ khí, kết cấu, vật liệu","1989-07-09","Nam","Kỹ sư Công nghệ Vật liệu","quitted",NULL,False
+451,"164993","Nguyễn Quyết","quyetn","0389929135","Trung tâm Khí cụ bay - Viện HKVT","Phòng Cơ khí, kết cấu, vật liệu","1990-02-10","Nam","Kỹ sư Thiết kế cơ khí","quitted",NULL,False
+454,"209296","Nguyễn Xuân Thúc","thucnx","0985667515","Trung tâm Khí cụ bay - Viện HKVT","Phòng Cơ khí, kết cấu, vật liệu","1986-09-23","Nam","Kỹ sư Công nghệ Vật liệu","quitted",NULL,False
+455,"275336","Nguyễn Ngọc Quỳnh","quynhnn17","0356703731","Trung tâm Khí cụ bay - Viện HKVT","Phòng Cơ khí, kết cấu, vật liệu","1997-06-28","Nam","Kỹ sư Thiết kế cơ khí","quitted",NULL,False
+456,"114498","Chu Bá Lâm","lamcb","0985575783","Trung tâm Khí cụ bay - Viện HKVT","Phòng Hệ thống điện, điện tử","1984-09-01","Nam","Kỹ sư Điện - Điện tử","quitted",NULL,False
+457,"165018","Đàm Mạnh Cường","cuongdm12","0389919655","Trung tâm Khí cụ bay - Viện HKVT","Phòng Hệ thống điện, điện tử","1990-08-20","Nam","Kỹ sư Điện - Điện tử","quitted",NULL,False
+458,"207375","Dương Hoàng Việt","vietdh1","0981883401","Trung tâm Khí cụ bay - Viện HKVT","Phòng Hệ thống điện, điện tử","1993-11-29","Nam","Kỹ sư Điện - Điện tử","quitted",NULL,False
+459,"214432","Dương Đức Bằng","bangdd","0398891850","Trung tâm Khí cụ bay - Viện HKVT","Phòng Hệ thống điện, điện tử","1994-10-14","Nam","Kỹ sư chính điện - điện tử","quitted",NULL,False
+460,"053372","Đỗ Lý Thanh Tùng","tungdlt","0343570015","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1980-06-16","Nam","Trưởng phòng Thiết kế phần mềm nhúng","quitted",NULL,False
+461,"264583","Nguyễn Trường Thành","thanhnt158","0336497796","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1997-02-18","Nam","Kỹ sư Điều khiển tự động","quitted",NULL,False
+462,"264584","Phạm Thành Lộc","locpt4","0964636615","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1997-08-12","Nam","Kỹ sư Điều khiển tự động","quitted",NULL,False
+463,"269930","Phùng Thế Đạt","datpt22","0356028068","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1989-11-07","Nam","Kỹ sư thiết kế FPGA","quitted",NULL,False
+464,"121860","Nguyễn Tiến Trường","truongnt2","0973657565","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1988-02-20","Nam","Kỹ sư thiết kế FPGA","quitted",NULL,False
+465,"122222","Nguyễn Thanh Đông","dongnt11","0986668724","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1987-04-14","Nam","Kỹ sư Điều khiển tự động","quitted",NULL,False
+466,"220562","Nguyễn Thái Bình","binhnt79","0389638894","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1994-02-10","Nam","Kỹ sư Điều khiển tự động","quitted",NULL,False
+467,"228293","Nguyễn Đức Hoàn","hoannd10","0356710796","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1995-11-28","Nam","Kỹ sư thiết kế FPGA","quitted",NULL,False
+468,"243323","Mai Xuân Sinh","sinhmx","0346296361","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1996-11-25","Nam","Kỹ sư thiết kế FPGA","quitted",NULL,False
+469,"264580","Vũ Văn Dũng","dungvv23","0329780443","Trung tâm Khí cụ bay - Viện HKVT","Phòng Thiết kế phần mềm nhúng","1997-04-13","Nam","Kỹ sư Điều khiển tự động","quitted",NULL,False
+470,"262653","Phạm Xuân Tùng","tungpx2","0943653566","Trung tâm Khí cụ bay - Viện HKVT","Phòng Phát triển ứng dụng","1986-04-12","Nam","Kỹ sư phát triển phần mềm","quitted",NULL,False
+471,"265460","Lê Trung Kiên","kienlt23","0985534819","Trung tâm Khí cụ bay - Viện HKVT","Phòng Phát triển ứng dụng","1993-05-21","Nam","Kỹ sư Xử lý ảnh","quitted",NULL,False
+473,"207376","Nguyễn Hoàng Hải","hainh35","0982954222","Trung tâm Khí cụ bay - Viện HKVT","Phòng Phát triển ứng dụng","1993-11-12","Nam","Kỹ sư Phát triển phần mềm ứng dụng","quitted",NULL,False
+474,"214422","Vũ Nguyên Giáp","giapvn","0984212715","Trung tâm Khí cụ bay - Viện HKVT","Phòng Phát triển ứng dụng","1994-06-11","Nam","Kỹ sư Phát triển phần mềm ứng dụng","quitted",NULL,False
+475,"218378","Nguyễn Đức Trung","trungnd233","0974555629","Trung tâm Khí cụ bay - Viện HKVT","Phòng Phát triển ứng dụng","1995-08-08","Nam","Kỹ sư Phát triển phần mềm ứng dụng","quitted",NULL,False
+477,"053828","Nguyễn Văn Trường","truongnv","0989738385","Trung tâm Khí cụ bay - Viện HKVT","Phòng Tích hợp thử nghiệm","1976-10-20","Nam","Kỹ sư Tích hợp hàng không","quitted",NULL,False
+479,"181513","Đỗ Văn Thụ","thudv2","0965844066","Trung tâm Khí cụ bay - Viện HKVT","Phòng Tích hợp thử nghiệm","1988-04-05","Nam","Kỹ sư Tích hợp hàng không","quitted",NULL,False
+480,"196908","Vi Văn Trường","truongvv2","0377008368","Trung tâm Khí cụ bay - Viện HKVT","Phòng Tích hợp thử nghiệm","1990-06-03","Nam","Phi công UAV","quitted",NULL,False
+481,"206888","Trần Minh Vũ","vutm2","0987536915","Trung tâm Khí cụ bay - Viện HKVT","Phòng Tích hợp thử nghiệm","1992-04-01","Nam","Trắc thủ bay UAV","quitted",NULL,False
+482,"207757","Nguyễn Mạnh Hùng","hungnm451","0965351661","Trung tâm Khí cụ bay - Viện HKVT","Phòng Tích hợp thử nghiệm","1992-06-26","Nam","Phi công UAV","quitted",NULL,False
+483,"271069","Vũ Vân Long","longvv7","0989991765","Trung tâm Khí cụ bay - Viện HKVT","Phòng Tích hợp thử nghiệm","1995-04-19","Nam","Phi công UAV","quitted",NULL,False
+484,"071907","Nguyễn Huy Hiếu","hieunh2","0982295582","Trung tâm Khí cụ bay - Viện HKVT","Phòng Quản lý sản xuất và Đảm bảo an toàn bay","1982-05-05","Nam","Kỹ sư Quản lý chất lượng sản phẩm điện điện tử","quitted",NULL,False
+486,"217316","Đào Thu Thảo","thaodt29","0976842156","Trung tâm Khí cụ bay - Viện HKVT","Phòng Kinh doanh tổng hợp","1993-09-03","Nữ","Nhân viên Kinh doanh","quitted",NULL,False
+447,"272690","Bành Đức Minh","","0945194561","Trung tâm Khí cụ bay - Viện HKVT","Phòng Khí động, động lực","1999-07-25","Nam","Kỹ sư Khí động lực học","quitted",NULL,False
+509,"269859","Ngô Thế Hùng","hungnt193","0347796595","Trung tâm Quản lý chất lượng","Phòng Phát triển Khu Lab X2","1995-09-17","Nam","Kỹ sư đo lường, thử nghiệm Lab","Tầng 4 Collected nan",True,True
+337,"240382","Trần Trung Dũng","dungtt57","0368389527","Trung tâm Hệ thống Điện nguồn","Phòng Phối trí và Mô phỏng hệ thống điện","1995-10-13","Nam","Kỹ sư phối trí hệ thống điện hàng không","Tầng 4 Collected nan",True,True
+293,"144353","Hoàng Văn Sơn","sonhv6","0365331087","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1987-04-06","Nam","Trưởng phòng Thiết kế phần cứng siêu cao tần","Tầng 4 Collected nan",True,True
+503,"206893","Nguyễn Hải Lý","lynh2","0981198859","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Động cơ nhiên liệu rắn","1990-10-05","Nam","Kỹ sư thuốc phóng","Tầng 4 Collected nan",True,True
+492,"241251","Nguyễn Tiến Hòa","hoant215","0962232606","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Đầu nổ","1992-09-20","Nam","Kỹ sư Thiết kế đầu nổ","Tầng 4 Collected nan",True,True
+491,"232508","Hoàng Minh Tuấn","tuanhm23","0983843598","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Ban Giám đốc trung tâm","1983-09-01","Nam","Phó Giám đốc Trung tâm Đạn tên lửa, Tích hợp và bắn thử","Tầng 10 nan Cong tac",True,True
+515,"087321","Phạm Thế Thính","thinhpt","0976160975","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1986-03-09","Nam","Kỹ sư Quản lý sản xuất","Tầng 4  Collected nan",True,True
+495,"227616","Nguyễn Doãn Hùng","hungnd59","0396897646","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Ngòi nổ","1994-06-09","Nam","Kỹ sư thiết kế ngòi nổ ","Tầng 4 Collected nan",True,True
+498,"240699","Vũ Minh Tuấn","tuanvm11","0364999947","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Hỏa thuật-hỏa cụ","1994-11-09","Nam","Kỹ sư kết cấu thân vỏ hỏa cụ","Tầng 4 Collected nan",True,True
+494,"219085","Mai Thị Thu","thumt6","0973015892","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Công nghệ Vật liệu nổ","1994-11-29","Nữ","Kỹ sư hóa học","Tầng 4 Collected nan",True,True
+493,"206881","Nguyễn Văn Nhân","nhannv12","0977896858","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Đầu nổ","1992-08-08","Nam","Trưởng phòng Đầu nổ","Tầng 4 None Cong tac",True,True
+506,"261001","Nguyễn Xuân Phụng","phungnx","0985380157","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Hỏa thuật-hỏa cụ","1994-07-16","Nam","Kỹ sư hỏa thuật","Tầng 4 Collected nan",True,True
+489,"222559","Nguyễn Trung Kiên","kiennt63","0962303426","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Kết cấu-cơ khí đạn phòng không","1990-02-21","Nam","Kỹ sư Cơ khí đạn phòng không","Tầng 10 Collected nan",True,True
+496,"236916","Đặng Xuân Đoàn","doandx","0392108569","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Đầu nổ","1995-02-25","Nam","Kỹ sư công nghệ chế tạo thân vỏ đầu nổ","Tầng 4 Collected nan",True,True
+500,"212436","Trần Quốc Anh","anhtq22","0988838518","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Hỏa thuật-hỏa cụ","1985-06-03","Nam","Trưởng phòng Hỏa thuật-hỏa cụ","Tầng 4 Collected nan",True,False
+518,"215432","Đào Thu Giang","giangdt32","0985260991","Trung tâm Đầu tư Mua sắm","Phòng Kiểm tra chất lượng đầu vào","1991-09-26","Nữ","Kỹ sư Kiểm tra chất lượng điện, điện tử","Tầng 9 Collected nan",True,True
+507,"118418","Đặng Tân Hải","haidt4","0983661659","Trung tâm Quản lý chất lượng","Ban Giám đốc trung tâm","1977-03-20","Nam","Giám đốc Trung tâm Quản lý chất lượng","Tầng 4 Collected nan",True,True
+510,"121067","Nguyễn Trọng Đức","ducnt19","0976368102","Trung tâm Quản lý chất lượng","Phòng Đảm bảo chất lượng","1986-02-14","Nam","Kỹ sư Quản lý chất lượng","Tầng 4 Collected nan",True,True
+501,"165173","Lương Quang Khôi","khoilq","0984168688","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Ngòi nổ","1980-01-11","Nam","Kỹ sư thử nghiệm ngòi nổ","Tầng 4 Collected nan",True,True
+517,"208390","Nguyễn Minh Dương","duongnm31","0968182486","Trung tâm Quản lý chất lượng","Phòng Đảm bảo chất lượng","1993-01-19","Nam","Kỹ sư Đảm bảo chất lượng (QA)","Tầng 4 Collected nan",True,True
+512,"265463","Ninh Thị Hương","huongnt473","0359014692","Trung tâm Quản lý chất lượng","Phòng Đảm bảo chất lượng","1993-07-05","Nữ","Kỹ sư Đảm bảo chất lượng (QA)","Tầng 4 Collected nan",True,True
+516,"207746","Trịnh Xuân Thao","thaotx1","0989648906","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1989-10-15","Nam","Trưởng phòng Kiểm soát chất lượng sản phẩm","Tầng 4 Collected nan",True,True
+519,"267817","Vũ Đình Nam","namvd7","0965012008","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1985-03-26","Nam","Kỹ sư Kiểm soát chất lượng cơ khí (QC)","Tầng 4 Collected nan",True,True
+504,"240359","Lê Thành Công","conglt14","0963681871","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Đầu nổ","1995-01-01","Nam","Kỹ sư Thiết kế thân vỏ đầu nổ","Tầng 4 Collected nan",True,True
+513,"243259","Phạm Văn Tuyên","tuyenpv10","0977155966","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1991-05-15","Nam","Kỹ sư Kiểm soát chất lượng điện, điện tử (QC)","quitted",NULL,False
+502,"187520","Đặng Trung Hiếu","hieudt17","0983098488","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Ngòi nổ","1979-05-14","Nam","Kỹ sư thiết kế ngòi nổ ","Tầng 4 Collected nan",True,True
+497,"240360","Nguyễn Văn Ngọc","ngocnv24","0976994453","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Động cơ nhiên liệu rắn","1993-04-12","Nam","Kỹ sư thiết kế động cơ nhiên liệu rắn","Tầng 4 Collected nan",True,True
+505,"249039","Lưu Xuân Nghĩa","nghialx1","0374455037","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Hỏa thuật-hỏa cụ","1996-08-30","Nam","Kỹ sư thiết kế hỏa cụ","quitted",NULL,False
+488,"207690","Bùi Đức Mạnh","manhbd3","0965262225","Khối Cơ khí - Động lực - Viện HKVT","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","1980-01-25","Nam","Giám đốc Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Tầng 4 Collected nan",True,True
+490,"230572","Vũ Mai Ba","bavm","0977103080","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Vật liệu và Ứng dụng","1980-10-30","Nam","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+487,"204633","Đinh Văn Hoan","hoandv5","0985267967","Khối Cơ khí - Động lực - Viện HKVT","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","1980-08-15","Nam","Phó Giám đốc Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Tầng 4 Collected nan",True,True
+485,"080795","Trương Ngọc Nam","namtn2","0962236688","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1975-11-17","Nam","Phó phòng Kế hoạch Tổng hợp","Tầng 9 Collected nan",True,True
+656,"285000","Trần Thị Phương Thảo","thaottp23","0388847395","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1991-10-12","Nữ","Chuyên viên Đầu tư","quitted",True,True
+514,"058286","Tạ Duy Vinh","vinhtd","0988016068","Trung tâm Đầu tư Mua sắm","Phòng Kiểm tra chất lượng đầu vào","1980-11-01","Nam","Kỹ sư Kiểm tra chất lượng điện, điện tử","Tầng 9 Collected nan",True,True
+537,"273700","Phùng Đức Minh","minhpd9","0963110297","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1997-02-11","Nam","Kỹ sư động lực học vệ tinh","Kangnam nan Không cần lấy ",False,True
+810,"059409","Vũ Thị Thu Trang","trangvtt13","0982581986","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1981-11-12","Nữ","Nhân viên Kinh doanh",NULL,True,True
+538,"000000","unknown",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"quitted",NULL,False
+528,"048318","Nguyễn Linh Giang","giangnl","0983000002","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1985-12-23","Nam","Kỹ sư Đảm bảo chất lượng và Quản lý chất lượng (QA & QC) vệ tinh","Kangnam nan Không cần lấy ",False,True
+321,"199734","Nguyễn Công Trường","truongnc3","0982166278","Trung tâm Hệ thống Điện nguồn","Ban Giám đốc trung tâm","1976-08-26","Nam","Giám đốc trung tâm Hệ thống Điện nguồn","Tầng 4 Collected nan",True,True
+600,"276451","Đỗ Gia Đăng","dangdg","0338845579","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Phát triển Nhà máy sản xuất loạt","1997-11-05","Nam","Kỹ sư Lập trình tự động hóa nhà máy","Tầng 4  Collected nan",True,True
+529,"109842","Nguyễn Văn Trường","truongnv4","0989090399","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1984-04-30","Nam","Kỹ sư Thiết kế hệ thống nguồn","Kangnam nan Không cần lấy ",False,True
+607,"278322","Trịnh Văn Trường","","0972221240","Trung tâm Quản lý chất lượng","Phòng Đo lường thử nghiệm","1990-06-15","Nam","Kỹ sư đo lường, thử nghiệm ","Tầng 4 Collected nan",True,False
+526,"228808","Nguyễn Văn Lệ","lenv1","0974180260","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1987-08-09","Nam","Kỹ sư Cơ khí","Tầng 4  Collected nan",True,True
+608,"279840","Lê Khánh Thành","thanhlk4","0376314391","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1993-01-28","Nam","Kỹ sư Kiểm soát chất lượng cơ khí (QC)","Tầng 4 Collected nan",True,True
+527,"269206","Đỗ Mạnh Hùng","hungdm27","0985718888","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1980-02-24","Nam","Giám đốc Văn phòng Thiết kế hệ thống Vệ tinh","Kangnam nan Không cần lấy ",False,True
+3,"003971","Vũ Tuấn Anh","anhvt","0973318888","Viện Hàng không vũ trụ Viettel","Ban Giám đốc Viện","1980-01-22","Nam","Viện trưởng","nan nan nan",True,True
+609,"278323","Trần Quang Hùng","hungtq37","0387133694","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1997-09-24","Nam","Nhân viên quản lý đề tài","Tầng 9 Collected nan",True,True
+523,"265817","Nguyễn Đức Mạnh","manhnd29","0966451029","Trung tâm Quản lý chất lượng","Phòng Phát triển Khu Lab X2","1995-03-27","Nam","Kỹ sư đo lường, thử nghiệm Lab","Tầng 4 Collected nan",True,True
+524,"205086","Phạm Quang Huy","huypq18","0982678729","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1982-10-22","Nam","Kỹ sư Cơ khí","Tầng 4  Collected nan",True,False
+530,"204923","Lã Hải Dũng","dunglh6","0988440812","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1965-11-24","Nam","Kỹ sư chính Kết cấu vệ tinh","Kangnam nan Không cần lấy ",False,True
+4,"005009","Nguyễn Văn Thành","thanhnv32","0983098178","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1983-01-13","Nam","Phó phòng Kế hoạch Tổng hợp","Tầng 9 Collected nan",True,True
+141,"206469","Nguyễn Phi Minh","minhnp1","0986986918","Viện Hàng không vũ trụ Viettel","Ban Giám đốc Viện","1982-03-18","Nam","Phó Viện trưởng","nan nan nan",True,True
+89,"185273","Nguyễn Thị Phương Mai","maintp","0985011688","Khối phòng ban chức năng - Viện HKVT","Phòng Pháp chế và Kiểm soát nội bộ","1972-02-28","Nữ","Trưởng phòng Pháp chế & KSNB","Tầng 9 Collected nan",True,True
+534,"272694","Hoàng Văn Tâm","","0979743177","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1999-04-23","Nam","Kỹ sư Đảm bảo chất lượng và Quản lý chất lượng (QA & QC) vệ tinh","quitted",False,False
+522,"228810","Đinh Xuân Bằng","bangdx1","0345397966","Trung tâm Quản lý chất lượng","Phòng Đo lường thử nghiệm","1991-10-04","Nam","Kỹ sư đo lường, thử nghiệm ","Tầng 4 Collected nan",True,True
+521,"226159","Nguyễn Phi Long","longnp13","0981188820","Trung tâm Quản lý chất lượng","Phòng Phát triển Khu Lab X2","1980-07-20","Nam","Kỹ sư đo lường, thử nghiệm Lab","Tầng 4 Collected nan",True,True
+606,"278321","Phạm Đức Anh","anhpd29","0345583209","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thử nghiệm và tối ưu hệ thống","1994-01-28","Nam","Kỹ sư kiểm thử cao tần","Tầng 11 Collected nan",True,True
+535,"272707","Nguyễn Đắc Hiệu","","0986680557","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1999-11-30","Nam","Kỹ sư Đảm bảo chất lượng và Quản lý chất lượng (QA & QC) vệ tinh","quitted",False,False
+536,"272712","Vũ Tiến Hiệp","","0987077953","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1999-01-29","Nam","Kỹ sư Đảm bảo chất lượng và Quản lý chất lượng (QA & QC) vệ tinh","quitted",False,False
+533,"272692","Hoàng Tích Phúc","","0969899793","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1999-03-10","Nam","Kỹ sư Đảm bảo chất lượng và Quản lý chất lượng (QA & QC) vệ tinh","quitted",False,False
+325,"236880","Hà Duy Khánh","khanhhd7","0373220240","Trung tâm Hệ thống Điện nguồn","Phòng Thiết kế hệ thống điện","1995-02-26","Nam","Kỹ sư Thiết kế hệ thống điện hàng không","Tầng 4 Collected nan",True,True
+525,"206795","Phạm Bá Minh","minhpb","0981399000","Khối TL Đối hạm - Viện HKVT","BU sản phẩm","1984-02-16","Nam","Trưởng Dự án BU ĐH-80","Tầng 10 Collected nan",True,True
+520,"222171","Nguyễn Tiến Khang","khangnt3","0987585268","Trung tâm Quản lý chất lượng","Phòng Đảm bảo chất lượng","1995-03-31","Nam","Kỹ sư Quản lý chất lượng","Tầng 4 Collected nan",True,False
+45,"088318","Lê Anh Dũng","dungla2","0975352868","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1977-05-05","Nam","Trưởng phòng Khoa học công nghệ","Tầng 9 Collected nan",True,True
+610,"155715","Tống Bá Trinh","trinhtb","0975454017","Khối phòng ban chức năng - Viện HKVT","Phòng Pháp chế và Kiểm soát nội bộ","1984-12-07","Nam","Chuyên viên Kiểm soát Nội bộ","Tầng 9 Collected nan",True,True
+611,"277929","Đặng Xuân Sơn","sondx1","0335976033","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế thiết bị điều khiển mặt đất","1997-09-20","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+251,"214430","Dư Minh Phương","phuongdm10","0979225064","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Thiết kế Phần mềm điều khiển phóng","1994-12-15","Nam","Kỹ sư Phần mềm điều khiển phóng","Tầng 11 Collected nan",True,True
+314,"213891","Phan Đình Bắc","bacpd1","0349649313","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1991-11-07","Nam","Kỹ sư Điện-Điều khiển","Tầng 11 Collected nan",True,True
+71,"005725","Phan Danh Định","dinhpd","0983779888","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1980-10-02","Nam","Nhân viên Quản lý tài sản","Tầng 9 Collected nan",True,True
+615,"277457","Nguyễn Phú Tài","tainp","0965391598","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Phần mềm hệ thống quang học","1998-10-02","Nam","Kỹ sư lập trình hệ thống","Tầng 11 Collected nan",True,True
+352,"214426","Nguyễn Văn Tâm","tamnv14","0379912205","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1994-02-11","Nam","Trưởng phòng Xử lý tín hiệu thông minh","Tầng 11 Collected nan",True,False
+169,"197810","Vũ Trọng Đại","daivt1","0968805990","Khối Cơ khí - Động lực - Viện HKVT","Ban Giám đốc khối","1985-01-06","Nam","Giám đốc Khối Cơ khí - Động lực","Tầng 4 Collected nan",True,True
+619,"277930","Nguyễn Xuân Sơn","sonnx9","0971699797","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế Cơ khí Hàng không","1997-10-11","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+151,"207836","Nguyễn Huy Hoàng","hoangnh261","0374092956","Trung tâm Động cơ Phản lực Hàng không","Phòng Điều khiển và giám sát động cơ","1993-03-28","Nam","Kỹ sư Phần cứng","Tầng 4 Collected nan",True,True
+86,"109859","Trịnh Quang Lân","lantq","0396000111","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1987-04-22","Nam","Nhân viên Quản lý tài sản","Tầng 9 Collected nan",True,True
+155,"228816","Nguyễn Quang Khoa","khoanq1","0869855145","Trung tâm Động cơ Phản lực Hàng không","Phòng Điều khiển và giám sát động cơ","1987-01-22","Nam","Kỹ sư điện/điện tử động cơ","Tầng 4 Collected nan",True,True
+612,"280769","Phan Văn Danh","danhpv2","0355096767","Trung tâm Quản lý sản xuất","Phòng Công nghệ sản xuất & Chế thử sản phẩm","1998-12-13","Nam","Kỹ sư kỹ thuật điện - điện tử","Tầng 11 Collected nan",True,True
+294,"214435","Nguyễn Bảo Long","longnb4","0973446707","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1993-04-06","Nam","Kỹ sư Thiết kế Siêu cao tần","Tầng 4 Collected nan",True,True
+616,"276453","Đoàn Văn Hòa","hoadv14","0338995996","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Kỹ thuật hồng ngoại","1997-12-26","Nam","Kỹ sư Cơ khí chính xác","Tầng 11 Collected nan",True,False
+228,"060969","Bùi Huy Tùng","tungbh","0989383055","Khối Dẫn đường - Điều khiển - Viện HKVT","Ban Giám đốc khối","1985-01-11","Nam","Giám đốc Khối Dẫn đường - Điều khiển","Tầng 11 Collected nan",True,True
+233,"205107","Đặng Văn Huấn","huandv","0385472860","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1989-08-16","Nam","Trưởng phòng Thiết kế điện tử trên khoang","Tầng 4 Collected nan",True,True
+267,"224510","Đinh Quang Trung","trungdq14","0985038321","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1994-09-24","Nam","Kỹ sư cơ - điện tử","Tầng 4 Collected nan",True,True
+307,"272719","Nguyễn Đức Phương","phuongnd37","0342921666","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1998-08-18","Nam","Kỹ sư Điện-Điều khiển","Tầng 11 Collected nan",True,True
+193,"245302","Lê Thị Hoài","hoailt11","0961362158","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1993-01-12","Nữ","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+618,"199791","Đặng Lê Thắng","thangdl","0983769494","Khối Cơ khí - Động lực - Viện HKVT","Trung tâm Cơ khí và Công nghệ Chế tạo","1976-06-16","Nam","Phó Giám đốc Trung tâm Cơ khí và Công nghệ Chế tạo","Tầng 10 Collected nan",True,True
+280,"220564","Nguyễn Văn Hòa","hoanv55","0987853880","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1989-05-20","Nam","Kỹ sư Phân tích nghiệp vụ","Tầng 11 Collected nan",True,False
+332,"047513","Nguyễn Trọng Tuyến","tuyenmty","0989388159","Trung tâm Hệ thống Điện nguồn","Phòng Thiết bị điện và nguồn","1984-09-15","Nam","Kỹ sư Thiết kế phần mềm ứng dụng","Tầng 4 Collected nan",True,True
+336,"225219","Nguyễn Thế Quý","quynt14","0988164928","Trung tâm Hệ thống Điện nguồn","Phòng Phối trí và Mô phỏng hệ thống điện","1994-10-23","Nam","Kỹ sư Mô phỏng điện từ trường","Tầng 4 Collected nan",True,True
+270,"226156","Hoàng Văn Hiệp","hiephv2","0344635057","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Cảm biến quán tính","1994-12-25","Nam","Kỹ sư Cảm biến quán tính","Tầng 11 Collected nan",True,True
+613,"279689","Lê Như Thái","thailn2","0393819128","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1991-08-05","Nam","Kỹ sư Antenna","Tầng 11 None di hoc",True,True
+87,"117757","Phạm Văn Cường","cuongpv4","0985224423","Trung tâm Đầu tư Mua sắm","Phòng Quản lý Tài sản","1984-11-25","Nam","Nhân viên Quản lý tài sản","Tầng 9 Collected nan",True,True
+274,"243258","Nguyễn Thị Hồng Hạnh","hanhnth26","0356113220","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1988-11-24","Nữ","Kỹ sư Phân tích nghiệp vụ","Tầng 11 Collected nan",True,False
+614,"276454","Nguyễn Văn San","sannv5","0355416722","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Phần mềm hệ thống quang học","1999-08-10","Nam","Kỹ sư lập trình ứng dụng","Tầng 11 Collected nan",False,False
+279,"215843","Lương Nguyễn Thu Hà","halnt","0966484872","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1994-02-02","Nữ","Kỹ sư Phân tích nghiệp vụ","quitted",NULL,False
+245,"227419","Hà Quốc Thịnh","","0392801209","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Phần mềm điều khiển bay","1994-10-08","Nam","Kỹ sư Phần mềm điều khiển bay","Tầng 11 Collected nan",True,True
+817,"436647","Nguyễn Văn Minh","minhnv62","0869223109","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thử nghiệm và tối ưu hệ thống","1997-05-12","Nam","Kỹ sư kiểm thử cao tần",NULL,True,True
+295,"228683","Lê Khả Linh","linhlk7","0982532601","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1993-05-15","Nam","Kỹ sư Thiết kế Siêu cao tần","Tầng 4 Collected nan",True,True
+631,"277335","Phùng Trí Điểm","diempt3","0961532448","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Kiểm soát chất lượng","1986-06-30","Nam","Kỹ sư Kiểm soát chất lượng tích hợp","Tầng 4 Collected nan",True,True
+627,"276599","Lê Quang Dương","","0868211312","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1995-02-02","Nam","Kỹ sư động lực học vệ tinh","Kangnam nan Không cần lấy ",False,False
+390,"187016","Đinh Duy Anh","anhdd33","0987077891","Khối TL Đối không - Viện HKVT","Trung tâm Chỉ huy và Điều khiển","1991-08-30","Nam","Phó Giám đốc Trung tâm Chỉ huy và Điều khiển","Tầng 10 Collected nan",True,True
+636,"281884","Trịnh Hải Nam","namth40","0368202712","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Cảm biến quán tính","1998-03-13","Nam","Kỹ sư Cảm biến quán tính","Tầng 11 Collected nan",True,True
+622,"279839","Dương Minh Sang","sangdm2","0973270498","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1998-04-08","Nam","Kỹ sư Thiết kế hệ nhúng","Tầng 10 Collected nan",True,True
+414,"242040","Đinh Hồng Quân","quandh23","0349641267","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu Hệ thống chỉ thị mục tiêu","1996-10-13","Nam","Kỹ sư Thiết kế hệ thống cao tần","Tầng 10 Collected nan",True,True
+642,"281873","Phạm Thị Kiều Trang","trangptk4","0867619398","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu Hệ thống chỉ thị mục tiêu","1998-07-11","Nữ","Kỹ sư Thiết kế Anten","Tầng 10 Collected nan",True,True
+644,"281879","Nguyễn Anh Du","duna","0988819508","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống vô tuyến điều khiển hỏa lực phòng không","1997-05-13","Nam","Kỹ sư Thiết kế hệ thống điều khiển vô tuyến","Tầng 10 Collected nan",True,True
+220,"224505","Vũ Văn Dậu","dauvv1","0976977108","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Kiểm soát công nghệ gia công cơ khí","1993-02-11","Nam","Kỹ sư Cơ khí","Tầng 10 Collected nan",True,True
+632,"279690","Nguyễn Vĩnh Sỹ","synv9","0963645702","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Thiết bị đo chuyên dụng","1996-03-17","Nam","Kỹ sư Thiết kế thiết bị đo chuyên dụng","Tầng 4  Collected nan",True,True
+624,"276537","Dương Quang Minh","minhdq9","0399229903","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống xử lý tình huống trên không","1997-09-21","Nam","Kỹ sư Lập trình FPGA","Tầng 10 Collected nan",True,True
+677,"KH0001","Hoàng Sơn",NULL,"0359018624","VIP",NULL,NULL,NULL,"Phó Tổng giám đốc","guest",NULL,False
+15,"044083","Hoàng Đăng Thủy","thuyhd2","0983962469","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1974-05-13","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+643,"281876","Phạm Hữu Minh","","0368896774","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống xử lý tình huống trên không","1999-03-08","Nam","Kỹ sư Thiết kế hệ nhúng phân tán","Tầng 10 Collected nan",True,False
+818,"436648","Trần Minh Công","congtm2","0961963457","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1999-03-07","Nam","Kỹ sư Thiết kế cơ khí",NULL,True,True
+628,"276969","Nguyễn Xuân Quế","","0977547293","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1986-11-15","Nam","Kỹ sư phần mềm ứng dụng trên khoang","Kangnam nan Không cần lấy ",False,False
+734,"291489","Hồ Anh Tuấn","tuanha37","0988123759","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Thiết kế Phần mềm điều khiển phóng","1998-11-12","Nam","Kỹ sư Phần mềm điều khiển phóng",NULL,True,True
+678,"KH0002","Nguyễn Trọng Bình",NULL,NULL,"VIP",NULL,NULL,NULL,"P.TTMT","guest",NULL,False
+635,"280768","Nguyễn Đức Hoàn","hoannd15","0388874133","Khối TL Đối hạm - Viện HKVT","BU sản phẩm","1995-10-25","Nam","Kỹ sư quản lý dự án","quitted",NULL,False
+620,"277931","Nguyễn Hải Đăng","dangnh34","0345693307","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống huấn luyện phòng không","1998-11-24","Nam","Kỹ sư Thiết kế hệ thống nhúng","Tầng 10 Collected nan",True,True
+645,"281885","Vũ Trọng Linh","linhvt24","0378604044","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống vô tuyến điều khiển hỏa lực phòng không","1997-12-28","Nam","Kỹ sư Thiết kế hệ thống điều khiển vô tuyến","quitted",NULL,False
+641,"281872","Ngô Doãn Hiến","","0329886680","Trung tâm Động cơ Phản lực Hàng không","Phòng Mô hình và Mô phỏng Động cơ","1998-07-08","Nam","Kỹ sư mô phỏng máy cánh","Tầng 4 Collected nan",True,False
+679,"KH0003","Phạm Hoài Nam",NULL,NULL,"VIP",NULL,NULL,NULL,"Thứ trưởng","guest",NULL,False
+399,"251020","Hoàng Minh Giang","gianghm","0966647404","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1996-08-14","Nam","Kỹ sư Thiết kế hệ nhúng","Tầng 10 Collected nan",True,False
+634,"009207","Phạm Tuyết Vân","tuyetvan","0983343789","Viện Hàng không vũ trụ Viettel","Khối TL Đối hạm - Viện HKVT","1979-05-10","Nữ","Nhân viên Hỗ trợ dự án","Tầng 10 Collected nan",True,True
+407,"222146","Phạm Bảo Liêm","liempb","0988759308","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu phát triển hệ thống thử nghiệm","1993-06-02","Nam","Kỹ sư Thiết kế hệ thống thử nghiệm","Tầng 10 Collected nan",True,True
+638,"207366","Doãn Anh Tuấn","tuanda30","0987070585","Khối phòng ban chức năng - Viện HKVT","Phòng Chính trị","1985-05-07","Nam","Trợ lý Tổ chức","Tầng 9 Collected nan",True,True
+640,"281883","Phạm Ngọc Anh","anhpn42","0339409636","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Xe Quân sự","1998-09-22","Nam","Kỹ sư Cơ khí","Tầng 10 Collected nan",True,True
+633,"071930","Hà Mạnh Hùng","hunghm8","0392828384","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Nghiên cứu, thiết kế hệ thống thông tin trường bắn","1984-05-24","Nam","Kỹ sư Thiết kế hệ thống","Tầng 11 nan Nghi viec",NULL,False
+733,"291491","Lương Văn Mạnh","manhlv13","0967684846","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Cảm biến quán tính","1998-10-24","Nam","Kỹ sư Cảm biến quán tính",NULL,True,True
+637,"275334","Phan Thị Thanh Huyền","huyenptt14","0383403257","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phân tích nghiệp vụ và thử nghiệm","1997-10-03","Nữ","Kỹ sư Phân tích nghiệp vụ","Tầng 11 Collected nan",True,True
+735,"291492","Nguyễn Thanh Tùng","tungnt147","0363975963","Trung tâm Đầu tự dẫn vô tuyến","Phòng Kỹ thuật tác chiến điện tử","1998-12-25","Nam","Kỹ sư Phát triển phần mềm nhúng",NULL,True,True
+639,"281882","Nguyễn Mạnh Cường","cuongnm66","0388216925","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Công nghệ chế thử cơ khí","1997-10-25","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+738,"291484","Phan Thanh Tùng","tungpt37","0967785298","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1998-01-07","Nam","Kỹ sư lập trình Xử lý tín hiệu",NULL,False,False
+184,"241543","Trần Ngọc Hưng","hungtn15","0976632125","Trung tâm Kết cấu, Vật liệu","Phòng Cơ cấu chấp hành","1995-05-21","Nam","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+177,"210622","Phạm Kiên Cường","cuongpk3","0969511527","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Vật liệu và Ứng dụng","1988-03-19","Nam","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+178,"240696","Lê Minh Hải","hailm8","0868122019","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Vật liệu và Ứng dụng","1984-09-12","Nam","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+444,"210621","Nguyễn Quang Huy","huynq64","0372562622","Trung tâm Khí cụ bay - Viện HKVT","Phòng Khí động, động lực","1992-05-31","Nam","Kỹ sư Tính toán thiết kế hệ thống điều khiển động cơ","quitted",NULL,False
+191,"228651","Đỗ Tuấn Minh","minhdt20","0961988094","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1994-12-23","Nam","Kỹ sư Vật liệu Composite và Công nghệ chế tạo","Tầng 4 Collected nan",True,True
+181,"242131","Nguyễn Văn Thuận","thuannv29","0866618394","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1994-03-15","Nam","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+182,"206892","Bùi Văn Đồng","dongbv1","0988141309","Trung tâm Kết cấu, Vật liệu","Phòng Cơ cấu chấp hành","1984-01-19","Nam","Trưởng phòng Cơ cấu chấp hành","Tầng 4 Collected nan",True,True
+187,"207114","Phạm Văn Quyền","quyenpv5","0966503199","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1992-05-02","Nam","Kỹ sư Thử nghiệm kết cấu và Vật liệu","Tầng 4 Collected nan",True,True
+180,"241542","Hà Thị Hồng Yến","yenhth13","0353863219","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1993-12-09","Nữ","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+647,"282547","Nguyễn Quang Thắng","thangnq31","0398213114","Trung tâm Quản lý sản xuất","Phòng Công nghệ sản xuất & Chế thử sản phẩm","1997-12-07","Nam","Kỹ sư kỹ thuật điện - điện tử","Tầng 4  Collected nan",True,True
+422,"187713","Lê Quốc Định","dinhlq","0978921777","Khối TL Đối không - Viện HKVT","Văn phòng Thiết kế hệ thống Đối không","1983-02-20","Nam","Giám đốc Văn phòng Thiết kế hệ thống Đối không","Tầng 10 Collected nan",True,True
+648,"282036","Lê Văn Tiến","tienlv19","0356363345","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Kiểm soát chất lượng","1992-03-04","Nam","Kỹ sư Kiểm soát chất lượng tích hợp","Tầng 4 Collected nan",True,True
+649,"281877","Lê Viết Toàn","toanlv26","0386437842","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Thiết bị đo chuyên dụng","1997-07-09","Nam","Kỹ sư Thiết kế thiết bị đo chuyên dụng","Tầng 4  Collected nan",True,True
+383,"208476","Nguyễn Duy Cường","cuongnd20","0986511056","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Phát triển Nhà máy sản xuất loạt","1990-12-02","Nam","Kỹ sư triển khai dự án","Tầng 4  Collected nan",True,True
+176,"247905","Nguyễn Thiện Tâm","","0397946880","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1996-01-29","Nam","Kỹ sư Thiết kế kết cấu","Tầng 4 Collected nan",True,False
+66,"211266","Nguyễn Tiến Kim Thu","thuntk4","0983389678","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1994-03-29","Nữ","Nhân viên đào tạo và phát triển","Tầng 9 Collected nan",True,True
+650,"228048","Khuất Thanh Sáng","sangkt1","0978868817","Trung tâm Quản lý chất lượng","Phòng Đảm bảo chất lượng","1986-11-28","Nam","Kỹ sư Quản lý chất lượng","Tầng 4 Collected nan",True,True
+261,"209298","Đặng Thị Diệu Linh","linhdtd1","0358837101","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Thuật toán điều khiển","1993-01-27","Nữ","Kỹ sư Điều khiển thiết bị bay","Tầng 11 Collected nan",True,True
+736,"291483","Lê Công Quyền","quyenlc1","0383260246","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1998-08-29","Nam","Kỹ sư thiết kế hệ thống Xử lý tín hiệu",NULL,True,True
+819,"436553","Nguyễn Tùng Sơn","sonnt104","0984872498","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Nghiên cứu, thiết kế hệ thống thông tin trường bắn","1989-10-17","Nam","Kỹ sư Thiết kế hệ thống",NULL,True,True
+173,"207116","Đỗ Hải Quân","quandh15","0989821250","Trung tâm Kết cấu, Vật liệu","Phòng Mô phỏng và Thiết kế","1988-12-31","Nam","Kỹ sư Thiết kế kết cấu","Tầng 4 Collected nan",True,True
+188,"217267","Nguyễn Văn Sự","sunv3","0359468037","Trung tâm Kết cấu, Vật liệu","Phòng Động học Kết cấu","1990-07-02","Nam","Kỹ sư Âm học","Tầng 4 Collected nan",True,True
+189,"228807","Trần Văn Hưng","hungtv66","0984530936","Trung tâm Kết cấu, Vật liệu","Phòng Động học Kết cấu","1986-09-15","Nam","Kỹ sư Tính toán mô phỏng","Tầng 4 Collected nan",True,True
+646,"281870","Hoàng Thị Ngân","nganht14","0382893474","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1998-12-13","Nữ","Kỹ sư Quản lý sản xuất","Tầng 4  Collected nan",True,True
+179,"241253","Hồ Thanh Nghị","nghiht1","0968187258","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Vật liệu và Ứng dụng","1992-08-25","Nam","Kỹ sư Nghiên cứu Vật liệu","Tầng 4 Collected nan",True,True
+190,"206400","Vũ Tiến Đạt","datvt5","0982432390","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1990-12-29","Nam","Trưởng phòng Công nghệ Polymer và Composite","Tầng 4 Collected nan",True,True
+452,"164994","Nguyễn Thiên Bách","bachnt2","0979015929","Trung tâm Khí cụ bay - Viện HKVT","Phòng Cơ khí, kết cấu, vật liệu","1990-12-07","Nam","Kỹ sư Thiết kế cơ khí","quitted",NULL,False
+472,"137612","Nguyễn Quốc Huy","huynq41","0968649056","Trung tâm Khí cụ bay - Viện HKVT","Phòng Phát triển ứng dụng","1986-08-15","Nam","Kỹ sư Hệ thống trạm mặt đất","quitted",NULL,False
+183,"123636","Cao Văn Bình","binhcv2","0989549983","Trung tâm Kết cấu, Vật liệu","Phòng Cơ cấu chấp hành","1988-10-26","Nam","Kỹ sư Thiết kế kết cấu","Tầng 4 Collected nan",True,True
+186,"187733","Trần Hùng Cường","cuongth13","0968021086","Trung tâm Kết cấu, Vật liệu","Phòng Động học Kết cấu","1986-10-02","Nam","Trưởng phòng Động học Kết cấu","Tầng 4 Collected nan",True,True
+755,"269022","Nguyễn Anh Tuấn","","0966810762","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Quản trị hệ thống CNTT","1998-08-22","Nam","Kỹ sư Lập trình",NULL,True,True
+172,"208389","Giang Thanh Hà","hagt","0982311305","Trung tâm Kết cấu, Vật liệu","Phòng Mô phỏng và Thiết kế","1982-03-24","Nữ","Trưởng phòng Mô phỏng và Thiết kế","Tầng 4 Collected nan",True,True
+652,"228392","Phương Anh","anhp348","0974009915","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1987-10-11","Nam","Nhân viên Tuyển dụng","Tầng 9 Collected nan",True,True
+432,"243327","Phan Trung Đức","ducpt13","0963767668","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Triển khai và bắn thử","1996-11-14","Nam","Kỹ sư Điện - Điện tử đạn phòng không","Tầng 10 Collected nan",True,True
+653,"249481","Nguyễn Ngọc Trâm","tramnn3","0966962706","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1997-06-27","Nữ","Nhân viên Tuyển dụng","Tầng 9 Collected nan",True,True
+344,"228812","Nguyễn Tiến Thành","thanhnt114","0978810691","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế thiết bị điều khiển mặt đất","1991-06-01","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+433,"260934","Nguyễn Xuân Tú","tunx4","0359111659","Khối TL Đối không - Viện HKVT","Văn phòng Thiết kế hệ thống Đối không","1996-05-01","Nam","Kỹ sư Thiết kế Hệ thống điện và Phân bố tải","Tầng 10 Collected nan",True,True
+306,"272717","Nguyễn Anh Phương","phuongna4","0985459763","Trung tâm Đầu tự dẫn vô tuyến","Phòng Hệ thống Điều khiển","1998-08-15","Nam","Kỹ sư Điện-Điều khiển","Tầng 11 Collected nan",True,True
+780,"431501","Võ Đông Giang","giangvd4","0974912311","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống tác chiến phòng không","1997-11-26","Nam","Kỹ sư Phát triển giải thuật tác chiến phòng không",NULL,True,True
+11,"181034","Thái Thị Trang","trangtt20","0973156868","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1992-04-26","Nữ","Nhân viên Văn thư","Tầng 9 Collected nan",True,True
+779,"431581","Nguyễn Công Tiến","tiennc1","0372699563","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1993-10-27","Nam","Kỹ sư mô phỏng cao tần",NULL,True,True
+394,"206904","Trịnh Văn Nhân","nhantv6","0352324414","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống huấn luyện phòng không","1994-12-26","Nam","Kỹ sư Thiết kế phần mềm huấn luyện phòng không","Tầng 10 Collected nan",True,True
+437,"221144","Trần Mạnh Hiền","hientm15","0961641280","Khối TL Đối không - Viện HKVT","BU ĐK-S2","1980-12-14","Nam","Kỹ sư Quản lý công nghệ","Tầng 10 Collected nan",True,True
+232,"194742","Bùi Văn Hùng","hungbv13","0349710840","Trung tâm Quản lý sản xuất","Phòng Công nghệ sản xuất & Chế thử sản phẩm","1991-05-16","Nam","Trưởng phòng Phát triển công nghệ sản xuất","Tầng 11 Collected nan",True,True
+24,"120040","Nguyễn Tuấn Anh","anhnt51","0985888283","Khối phòng ban chức năng - Viện HKVT","Phòng Kế hoạch Tổng hợp","1982-10-24","Nam","Nhân viên Lái xe","Tầng 9 nan nan",False,True
+192,"242128","Nghiêm Công Hoàng Phương","phuongnch","0934465868","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1993-01-06","Nam","Kỹ sư Vật liệu Composite và Công nghệ chế tạo","Tầng 4 Collected nan",True,True
+427,"180717","Nguyễn Đình Tỉnh","tinhnd5","0974599238","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1990-04-17","Nam","Trưởng phòng Điện-điện tử đạn phòng không","Tầng 10 Collected nan",True,True
+436,"215815","Vũ Văn Hiển","hienvv10","0987912101","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Tích hợp và thử nghiệm","1991-12-02","Nam","Trưởng phòng Tích hợp và thử nghiệm","Tầng 10 Collected nan",True,True
+438,"226279","Nguyễn Thành Đạt","datnt74","0339670331","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Triển khai và bắn thử","1992-12-09","Nam","Trưởng phòng Triển khai và bắn thử","Tầng 10 Collected nan",True,True
+185,"243888","Lê Hoàng An","anlh35","0981363393","Trung tâm Kết cấu, Vật liệu","Phòng Cơ cấu chấp hành","1993-02-12","Nam","Kỹ sư Thử nghiệm kết cấu và Vật liệu","Tầng 4 Collected nan",True,True
+51,"013652","Đinh Thị Quỳnh Hoa","hoadtq1","0989086986","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1980-06-01","Nữ","Trưởng phòng Tài chính kế toán","Tầng 9 Collected nan",True,True
+431,"236918","Nguyễn Hữu Dũng","dungnh24","0987406517","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Triển khai và bắn thử","1995-09-26","Nam","Kỹ sư Điện - Điện tử đạn phòng không","Tầng 10 Collected nan",True,True
+195,"209293","Phạm Hồng Phú","phuph3","0966598791","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1987-12-01","Nam","Trưởng phòng Hệ thống nhiên liệu","Tầng 4 Collected nan",True,True
+782,"431578","Nguyễn Ngọc Sơn","sonnn28","0363119449","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1993-12-10","Nam","Kỹ sư Tích hợp hàng không",NULL,True,True
+76,"192701","Đặng Xuân Trung","trungdx2","0982945959","Trung tâm Đầu tư Mua sắm","Phòng Đầu tư","1992-01-16","Nam","Chuyên viên Đầu tư","Tầng 9 Collected nan",True,True
+777,"431568","Lương Ngọc Quyên","quyenln3","0988152888","Trung tâm Quản lý chất lượng","Phòng Đảm bảo chất lượng","1985-08-27","Nữ","Kỹ sư Quản lý chất lượng",NULL,True,True
+654,"280368","Lê Huy Vũ","vulh8","0969132296","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1996-12-17","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+778,"431005","Nguyễn Đức Tài","taind33","0329534875","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1996-03-21","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+651,"180059","Phan Hồ Hải","haiph7","0985272727","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1987-11-01","Nam","Chuyên viên Đào tạo và phát triển","Tầng 9 Collected nan",True,True
+249,"095016","Lê Sỹ Đức","ducls","0983402887","Trung tâm Hệ thống Điều khiển Hỏa lực","Ban Giám đốc trung tâm","1987-08-02","Nam","Phó Giám đốc Trung tâm Hệ thống Điều khiển Hỏa lực","Tầng 11 Collected nan",True,True
+655,"280369","Trần Nha Hội","hoitn2","0852802128","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1995-08-26","Nam","Kỹ sư Điện - Điện tử","Tầng 4 Collected nan",True,True
+400,"242127","Vũ Văn Lương","luongvv4","0335634689","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1996-02-28","Nam","Kỹ sư Thiết kế bo mạch xử lý thông tin","Tầng 10 Collected nan",True,False
+783,"431879","Đỗ Thị Thanh Hà","hadtt30","0389659935","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1998-07-01","Nữ","Nhân viên Tuyển dụng",NULL,True,True
+362,"228813","Trịnh Quang Trung","trungtq21","0973210491","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Kỹ thuật hồng ngoại","1991-04-21","Nam","Kỹ sư Quang điện tử","Tầng 11 Collected nan",True,True
+726,"001986","Nguyễn Đình Chiến","chiennd","0359018624","VIP",NULL,NULL,NULL,"Phó Tổng giám đốc","guest",False,False
+39,"071943","Nguyễn Hữu Xuân","xuannh","0976743616","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Tích hợp thử nghiệm và triển khai hệ thống thông tin trường bắn","1986-02-10","Nam","Kỹ sư tích hợp hệ thống thông tin trường bắn","Tầng 11 Collected nan",True,True
+330,"275343","Nguyễn Hữu Đạt","datnh11","0987815617","Trung tâm Hệ thống Điện nguồn","Phòng Thiết kế hệ thống điện","1998-07-15","Nam","Kỹ sư Thiết kế hệ thống điện hàng không","Tầng 4 Collected nan",True,True
+439,"227668","Đoàn Ngọc Quang Huy","huydnq","0397297538","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Triển khai và bắn thử","1994-01-26","Nam","Kỹ sư Điện - Điện tử đạn phòng không","Tầng 10 Collected nan",True,True
+122,"167233","Bùi Văn Thắng","thangbv3","0969513288","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1979-05-11","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+42,"176063","Trần Phương Quỳnh","quynhtp","0983745725","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Nghiên cứu, thiết kế hệ thống thông tin trường bắn","1990-07-16","Nữ","Kỹ sư phân tích dữ liệu","Tầng 11 Collected nan",True,True
+532,"237629","Phạm Minh Quân","quanpm6","0865756926","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1986-09-26","Nam","Kỹ sư chính động lực học vệ tinh","Kangnam nan Không cần lấy ",False,True
+94,"123431","Nguyễn Trung Dũng","dungnt63","0968085959","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1974-01-22","Nam","Phó phòng Tham mưu tác chiến","Tầng 9 Collected nan",True,True
+108,"071362","Đỗ Mạnh Hiển","hiendm4","0978738686","Khối Triển khai - Viện HKVT","Phòng Tham mưu tác chiến","1978-07-09","Nam","Nhân viên Vệ binh","Tầng 9 nan nan",False,True
+630,"277928","Phạm Thị Thùy Liên","lienptt1","0365442088","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1988-05-22","Nữ","Kỹ sư kỹ thuật điện - điện tử","Tầng 4  Collected nan",True,True
+426,"241546","Vương Công Đạt","datvc","0344719366","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Kết cấu-cơ khí đạn phòng không","1993-10-13","Nam","Kỹ sư Khí động lực học đạn phòng không","Tầng 10 Collected nan",True,False
+727,"001493","Nguyễn Thanh Nam","namnt","0359018624","VIP",NULL,NULL,NULL,"Phó Tổng giám đốc","guest",False,False
+712,"046654","Nguyễn Chí Thanh","thanhnc",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+371,"273698","Phạm Trung Sơn","","0973076326","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Phát triển Nhà máy sản xuất loạt","1995-10-26","Nam","Kỹ sư triển khai dự án","Tầng 4  Collected nan",True,False
+364,"250753","Nguyễn Văn Trường","truongnv40","0964746036","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Phần mềm hệ thống quang học","1989-02-22","Nam","Kỹ sư lập trình hệ thống","Tầng 11 Collected nan",True,True
+453,"188374","Phạm Thị Huyền","huyenpt15","0964766287","Trung tâm Khí cụ bay - Viện HKVT","Phòng Cơ khí, kết cấu, vật liệu","1988-04-20","Nữ","Kỹ sư Công nghệ Vật liệu","quitted",NULL,False
+476,"236911","Đồng Ngọc Nhật","nhatdn1","0969892310","Trung tâm Khí cụ bay - Viện HKVT","Phòng Phát triển ứng dụng","1995-03-26","Nam","Kỹ sư Phát triển phần mềm ứng dụng","quitted",NULL,False
+478,"077935","Vũ Trường Giang","giangvt1","0985006655","Trung tâm Khí cụ bay - Viện HKVT","Phòng Tích hợp thử nghiệm","1981-09-02","Nam","Phi công UAV","quitted",NULL,False
+36,"100598","Hà Hùng Việt","viethh1","0985836838","Khối Triển khai - Viện HKVT","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","1985-01-16","Nam","Phó giám đốc Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Tầng 11 Collected nan",True,True
+401,"246381","Lê Xuân Khôi","","0918206463","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1997-12-17","Nam","Kỹ sư Thiết kế bo mạch xử lý thông tin","Tầng 10 Collected nan",True,False
+391,"059026","Nguyễn Thị Thu Dung","dungntt2","0975152440","Viện Hàng không vũ trụ Viettel","Khối TL Đối không - Viện HKVT","1987-10-13","Nữ","Nhân viên Hỗ trợ dự án","Tầng 10 Collected nan",True,True
+334,"241250","Hoàng Thịnh Vượng","vuonght3","0989216292","Trung tâm Hệ thống Điện nguồn","Phòng Thiết kế hệ thống điện","1992-02-02","Nam","Kỹ sư Đo lường, phân tích số liệu hệ thống","Tầng 4 Collected nan",True,True
+740,"293115","Bùi Hải Đăng","dangbh5","0388621712","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1999-12-17","Nam","Kỹ sư Thiết kế phần cứng đạn phòng không",NULL,True,False
+384,"269374","Nguyễn Đình Minh","minhnd34","0972891041","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Thiết bị đo chuyên dụng","1995-12-22","Nam","Kỹ sư Thiết kế thiết bị đo chuyên dụng","Tầng 4  Collected nan",True,True
+708,"002013","Trần Thu Huyền","thuhuyen",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+721,"018798","Nguyễn Mạnh Hải","hainm",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+722,"158813","Vũ Thị Mai","maivt3",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+723,"007830","Nguyễn Quỳnh Chi","chinq",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+605,"278163","Trần Văn Phương","phuongtv20","0977310755","Trung tâm Hệ thống Điện nguồn","Phòng Thiết kế hệ thống điện","1995-07-27","Nam","Kỹ sư Thiết kế hệ thống điện hàng không","Tầng 4 Collected nan",True,False
+724,"064346","Đoàn Thanh Tám","tamdt9",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+725,"062624","Trần Tiến Thành","thanhtt10",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+728,"001817","Tống Mỹ Hạnh","tonghanh",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+715,"008136","Đào Thúy Hường","huongdt",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+717,"001625","Nguyễn Thị Hải Lý","haily",NULL,"VIP",NULL,NULL,NULL,NULL,"guest",False,False
+322,"225749","Đỗ Thành Giang","giangdt38","0363696609","Trung tâm Hệ thống Điện nguồn","Ban Giám đốc trung tâm","1983-06-07","Nam","Phó Giám đốc trung tâm Hệ thống Điện nguồn","Tầng 4 Collected nan",True,True
+329,"275341","Lê Hữu Dần","danlh","0339764848","Trung tâm Hệ thống Điện nguồn","Phòng Thiết kế hệ thống điện","1998-09-23","Nam","Kỹ sư Đo lường, phân tích số liệu hệ thống","Tầng 4 Collected nan",True,True
+133,"137613","Đoàn Anh Đức","ducda3","0356070482","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1989-09-07","Nam","Kỹ sư Động học bay","Tầng 10 Collected nan",True,True
+137,"207374","Trần Tuấn Anh","anhtt36","0365936306","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Tính toán, mô phỏng","1993-08-02","Nam","Kỹ sư tính toán, mô phỏng khí động","Tầng 10 Collected nan",True,True
+739,"291556","Lê Đình Hồng Sơn","sonldh1","0396504040","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống điện động lực phòng không","1998-02-16","Nam","Kỹ sư Thiết kế hệ thống điện công suất",NULL,True,True
+247,"243322","Nguyễn Duy Khang","khangnd7","0335810604","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Hệ thống định vị","1996-03-14","Nam","Kỹ sư Hệ thống Định vị","Tầng 11 Collected nan",True,True
+669,"285624","Phạm Hoàng Việt","vietph2","0869580999","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Phần mềm hệ thống quang học","1997-10-28","Nam","Kỹ sư lập trình hệ thống",NULL,True,True
+664,"284763","Nguyễn Minh Toàn","toannm25","0969047241","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1995-09-20","Nam","Kỹ sư Kết cấu vệ tinh","quitted",False,True
+665,"284766","Nguyễn Văn Hà","hanv57","0981022054","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Nghiên cứu, thiết kế hệ thống thông tin trường bắn","1998-01-22","Nam","Kỹ sư phân tích dữ liệu","quitted",True,False
+742,"121625","Hà Thị Hải Yến","yenhth16","0977119948","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1984-08-31","Nữ","Kỹ sư Linh kiện",NULL,True,True
+741,"293116","Đỗ Tùng Dương","duongdt24","0358960439","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Cảm biến quán tính","1999-03-21","Nam","Kỹ sư Cảm biến quán tính",NULL,True,True
+671,"285464","Ngô Tiến Tâm","tamnt84","0335953241","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1996-08-04","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+428,"243326","Lê Văn Mạnh","manhlv12","0965897202","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1996-06-28","Nam","Kỹ sư lập trình nhúng đạn phòng không","Tầng 10 Collected nan",True,True
+657,"284775","Nguyễn Hoàng Anh","anhnh146","0346189922","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1998-04-08","Nam","Kỹ sư Điện - Điện tử","quitted",True,True
+660,"284777","Lê Mạnh Đức","duclm28","0962546705","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý thông tin","1998-08-21","Nam","Kỹ sư Phát triển phần mềm nhúng","quitted",True,True
+666,"122898","Nguyễn Thu Trang","trangnt21","0982036938","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1991-11-11","Nữ","Nhân viên Tiền lương và Quan hệ lao động",NULL,True,True
+435,"271362","Phạm Đình Dương","duongpd9","0989466318","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1999-05-13","Nam","Kỹ sư Thiết kế phần cứng đạn phòng không","Tầng 10 Collected nan",True,True
+667,"285519","Phạm Tiến Thắng","thangpt7","0866886235","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế thiết bị điều khiển mặt đất","1994-09-02","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+68,"250910","Doãn Thu Hiền","","0355599486","Khối phòng ban chức năng - Viện HKVT","Phòng Tổ chức Lao động","1996-09-26","Nữ","Nhân viên Tuyển dụng","Tầng 9 nan nghi viec",NULL,False
+658,"284764","Lê Trọng Tuấn Anh","anhltt11","0971357246","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế anten - đường truyền","1995-02-13","Nam","Kỹ sư Thiết kế Anten","quitted",True,True
+617,"279693","Phạm Đỗ Trung Anh","anhpdt","0967488714","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Kỹ thuật hồng ngoại","1994-11-18","Nam","Kỹ sư Quang điện tử","Tầng 11 Collected nan",True,True
+668,"285466","Hoàng Văn Danh","danhhv2","0962855462","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1998-01-10","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+204,"241247","Phạm Huy Phong","phongph15","0865221188","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Thiết kế Cơ khí Hàng không","1995-02-17","Nam","Kỹ sư Thiết kế cơ khí","Tầng 10 Collected nan",True,True
+661,"284770","Ngô Trần Minh Đức","ducntm","0983028603","Trung tâm Cơ khí và Công nghệ Chế tạo","Phòng Kiểm soát công nghệ gia công cơ khí","1997-03-28","Nam","Kỹ sư Cơ khí","quitted",True,True
+626,"278324","Nguyễn Việt An","annv307","0964621277","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1998-01-02","Nam","Kỹ sư lập trình nhúng đạn phòng không","Tầng 10 Collected nan",True,True
+662,"284772","Mai Tuấn Dũng","dungmt10","0395358822","Văn phòng Thiết kế hệ thống Đối hạm","Phòng Thiết kế cấu hình","1998-12-28","Nam","Kỹ sư Thiết kế cấu hình","quitted",True,True
+255,"247042","Lê Đình Thi","thild2","0966241773","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Thiết kế Phần mềm điều khiển phóng","1996-11-11","Nam","Kỹ sư Phần mềm điều khiển phóng","Tầng 11 Collected nan",True,False
+743,"292811","Nguyễn Phúc Khánh","khanhnp4","0335328581","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Phần mềm điều khiển bay","1998-02-13","Nam","Kỹ sư Phần mềm điều khiển bay",NULL,True,True
+499,"250754","Lê Văn Hòa","hoalv15","0963116048","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Động cơ nhiên liệu rắn","1996-01-03","Nam","Kỹ sư thiết kế thân vỏ động cơ nhiên liệu rắn","Tầng 4 Collected nan",True,True
+670,"285465","Lê Xuân Tùng","tunglx10","0378766456","Trung tâm Kết cấu, Vật liệu","Phòng Công nghệ Polymer và Composite","1998-10-08","Nam","Kỹ sư Vật liệu Composite và Công nghệ chế tạo",NULL,True,True
+430,"227667","Dương Minh Đức","ducdm12","0975364931","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1994-06-14","Nam","Kỹ sư lập trình nhúng đạn phòng không","Tầng 10 Collected nan",True,True
+442,"208452","Nguyễn Như Văn","vannn3","0983840003","Trung tâm Động cơ Phản lực Hàng không","Phòng Mô hình và Mô phỏng Động cơ","1983-07-08","Nam","Kỹ sư Mô hình toán-lý động cơ","Tầng 4 Collected nan",True,True
+531,"223053","Nguyễn Anh Vũ","vuna10","0983225996","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1988-07-10","Nam","Kỹ sư Kết cấu vệ tinh","Kangnam nan Không cần lấy ",False,True
+744,"292813","Trần Tuấn Anh","","0963935558","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thiết bị kiểm tra","1999-09-12","Nam","Kỹ sư Phần mềm Thiết bị kiểm tra",NULL,True,False
+198,"240787","Phạm Đắc Phượng","phuongpd6","0979510189","Trung tâm Kết cấu, Vật liệu","Phòng Hệ thống nhiên liệu","1988-09-18","Nam","Kỹ sư Cơ khí","Tầng 4 Collected nan",True,True
+49,"243076","Lê Khánh Toàn","toanlk3","0344022734","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1995-04-30","Nam","Nhân viên quản lý đề tài","quitted",NULL,False
+663,"284773","Trần Trọng Tuân","tuantt27","0363969683","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống điều khiển đài bệ","1997-12-23","Nam","Kỹ sư Thiết kế phần mềm điều khiển","quitted",True,False
+90,"249643","Nguyễn Thị Thanh Hương","huongntt120","0969198580","Khối phòng ban chức năng - Viện HKVT","Phòng Pháp chế và Kiểm soát nội bộ","1994-01-20","Nữ","Nhân viên thẩm định và tư vấn pháp lý","Tầng 9 Collected nan",True,False
+258,"249038","Trần Phương Nam","namtp4","0986702053","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Cảm biến quán tính","1996-10-11","Nam","Kỹ sư Cảm biến quán tính","Tầng 11 nan nghi viec",NULL,False
+737,"291487","Đoàn Ngọc Duy","duydn8","0382728282","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1998-09-07","Nam","Kỹ sư lập trình Xử lý tín hiệu",NULL,True,True
+601,"095496","Lê Hữu Trưởng","truonglh1","0984565693","Trung tâm Phát triển nền tảng điện tử","Ban Giám đốc trung tâm","1983-11-02","Nam","Giám đốc Trung tâm Phát triển nền tảng điện tử","Tầng 4 Collected nan",True,True
+257,"209289","Vương Xuân Chiến","chienvx","0392010406","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Cảm biến quán tính","1990-06-06","Nam","Kỹ sư Cảm biến quán tính","Tầng 11 Collected nan",True,True
+434,"271361","Nguyễn Xuân Khải","","0394491201","Khối TL Đối không - Viện HKVT","Văn phòng Thiết kế hệ thống Đối không","1999-01-12","Nam","Kỹ sư Mô phỏng động học bay ","Tầng 10 nan nan",True,False
+508,"123638","Trần Quốc Hoàng","hoangtq4","0917374456","Trung tâm Quản lý chất lượng","Phòng Đo lường thử nghiệm","1982-09-03","Nam","Kỹ sư đo lường, thử nghiệm ","Tầng 4 Collected nan",True,False
+683,"289249","Đinh Hồng Đăng","dangdh12","0968888676","Trung tâm Đầu tự dẫn vô tuyến","Phòng Thiết kế và mô phỏng hệ thống","1991-09-04","Nam","Kỹ sư mô phỏng cao tần",NULL,True,True
+625,"279841","Nguyễn Đặng Sơn Lam","","0329048777","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống xử lý tình huống trên không","1998-11-06","Nam","Kỹ sư Xử lý số tín hiệu","Tầng 10 nan nan",NULL,False
+623,"279842","Trần Phương Thảo","","0964086794","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống tác chiến phòng không","1999-05-24","Nữ","Kỹ sư Phần mềm tác chiến phòng không","Tầng 10 Collected nan",NULL,False
+621,"279845","Nguyễn Thế An","","0363257902","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống huấn luyện phòng không","1999-04-25","Nam","Kỹ sư Thiết kế hệ thống nhúng","Tầng 10 nan nan",NULL,False
+629,"280767","Nguyễn Hữu Cảnh","","0379887709","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1996-06-22","Nam","Kỹ sư phần mềm ứng dụng trên khoang","Kangnam nan Không cần lấy ",False,False
+687,"289966","Mai Văn Đông","dongmv2","0866894493","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1993-04-16","Nam","Kỹ sư Tích hợp hàng không",NULL,True,True
+659,"284776","Ngô Đức Thắng","thangnd58","0363092190","Trung tâm Đầu tự dẫn vô tuyến","Phòng Xử lý tín hiệu ra đa","1998-11-29","Nam","Kỹ sư Phần mềm Xử lý tín hiệu","quitted",True,True
+291,"122661","Phạm Minh Thuận","thuanpm1","0984309542","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống vô tuyến điều khiển hỏa lực phòng không","1986-09-10","Nam","Kỹ sư Thiết kế hệ thống điều khiển vô tuyến","Tầng 10 Collected nan",True,True
+429,"107117","Nguyễn Như Khánh","khanhnn2","0974374745","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1987-02-13","Nam","Kỹ sư Điện - điện tử, vô tuyến điện tử đạn phòng không","Tầng 10 Collected nan",True,True
+689,"289948","Đinh Vương Anh","anhdv64","0977480347","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Quản trị hệ thống CNTT","1992-06-02","Nam","Kỹ sư Quản trị hệ thống",NULL,True,True
+672,"272733","Nguyễn Đăng Huy","huynd46","0964121702","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1998-07-24","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+48,"240693","Phạm Thị Ngọc Ánh","anhptn12","0359740378","Khối phòng ban chức năng - Viện HKVT","Phòng Khoa học Công nghệ","1995-04-03","Nữ","Nhân viên quản lý đề tài","Tầng 9 Collected nan",True,True
+676,"289587","Trần Cầu","caut1","0342206790","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Điều khiển và Tích hợp thử nghiệm","1997-04-26","Nam","Kỹ sư điều khiển hệ thống",NULL,False,False
+746,"292814","Nguyễn Trung Đức","ducnt67","0373919415","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1998-02-08","Nam","Kỹ sư lập trình nhúng đạn phòng không",NULL,True,True
+54,"077845","Vũ Thị Ánh Liên","lienvta","0979151158","Khối phòng ban chức năng - Viện HKVT","Phòng Tài chính Kế toán","1984-05-14","Nữ","Nhân viên Kế toán phần hành 1","Tầng 9 Collected nan",True,True
+680,"289946","Nguyễn Sỹ Đạt","datns","0335699404","Trung tâm Quản lý chất lượng","Phòng Kiểm soát chất lượng sản phẩm","1995-02-27","Nam","Kỹ sư Kiểm soát chất lượng điện, điện tử (QC)",NULL,True,True
+747,"292815","Nguyễn Minh Tiến","tiennm33","0974261223","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Điện-điện tử đạn phòng không","1998-09-05","Nam","Kỹ sư lập trình nhúng đạn phòng không",NULL,True,True
+675,"289588","Nguyễn Thảo Trang","trangnt218","0326638880","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1994-05-13","Nữ","Kỹ sư Linh kiện",NULL,True,True
+682,"289947","Nông Thu Trà","trant26","0343309292","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1998-09-23","Nữ","Kỹ sư Linh kiện",NULL,True,True
+673,"288938","Bùi Tuấn Linh","linhbt11","0337839952","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Phòng Lập trình nhúng ","1997-11-30","Nam","Kỹ sư Thiết kế hệ thống nhúng điều khiển",NULL,True,True
+681,"289248","Vũ Quang Tú","tuvq1","0985237729","Trung tâm Hệ thống Điện nguồn","Phòng Phối trí và Mô phỏng hệ thống điện","1992-07-07","Nam","Kỹ sư phối trí hệ thống điện hàng không",NULL,True,True
+745,"241549","Trần Mạnh Cường","cuongtm29","0987940660","Trung tâm Động cơ phóng, Đầu nổ và Hỏa thuật","Phòng Đầu nổ","1992-02-27","Nam","Kỹ sư Thiết kế đầu nổ",NULL,True,True
+686,"289950","Nguyễn Văn Hiếu","hieunv57","0978067728","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Công nghệ Tích hợp","1992-09-19","Nam","Kỹ sư Tích hợp hàng không",NULL,True,True
+685,"289949","Nguyễn Văn Thiện","thiennv26","0987790226","Trung tâm Quản lý sản xuất","Phòng Kỹ thuật Sản xuất","1995-11-20","Nam","Kỹ sư Quản lý sản xuất",NULL,True,True
+748,"292812","Nguyễn Hữu Tuyên","tuyennh6","0387208855","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Tích hợp và thử nghiệm","1998-04-06","Nam","Kỹ sư Điện - Điện tử đạn phòng không",NULL,True,True
+674,"288939","Lương Thế Phong","phonglt19","0983918196","Trung tâm Ra đa điều khiển","Phòng Nghiên cứu hệ thống vô tuyến điều khiển hỏa lực phòng không","1996-08-04","Nam","Kỹ sư Thiết kế hệ thống điều khiển vô tuyến",NULL,True,False
+799,"434412","Vũ Mạnh Hùng","hungvm15","0364285986","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Phòng Tích hợp và thử nghiệm","1999-08-16","Nam","Kỹ sư Điện - Điện tử đạn phòng không",NULL,True,True
+171,"236379","Lê Mỹ Phương","phuonglm8","0973960394","Khối Cơ khí - Động lực - Viện HKVT","Nhóm hỗ trợ dự án","1994-01-29","Nữ","Nhân viên Hỗ trợ dự án","Tầng 4 Collected nan",True,False
+800,"434417","Vũ Quang Phát","phatvq","0968401583","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1996-05-27","Nam","Kỹ sư Kết cấu vệ tinh",NULL,False,True
+801,"434418","Đỗ Tuấn Anh","anhdt182","0979426521","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1992-07-02","Nam","Kỹ sư Kết cấu vệ tinh",NULL,False,True
+802,"434416","Đào Văn Long","","0976204918","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Sản xuất thiết bị bay","1993-02-26","Nam","Kỹ sư Tích hợp hàng không",NULL,True,True
+345,"207745","Ninh Thị Hương","huongnt382","0972617196","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Thị giác máy tính","1990-06-10","Nữ","Trưởng phòng Thị giác Máy tính","Tầng 11 Collected nan",False,False
+359,"271360","Nguyễn Đức Thiện","thiennd18","0357561357","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Xử lý tín hiệu thông minh","1998-10-21","Nam","Kỹ sư lập trình Xử lý tín hiệu","Tầng 11 Collected nan",False,False
+361,"220569","Trần Duy Nhật","nhattd7","0393436294","Trung tâm Đầu tự dẫn Quang điện tử","Phòng Kỹ thuật hồng ngoại","1994-09-25","Nam","Kỹ sư Cơ khí chính xác","Tầng 11 Collected nan",False,False
+604,"277933","Nguyễn Đức Dương","duongnd19","0389166693","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế phần cứng siêu cao tần","1994-10-03","Nam","Kỹ sư Thiết kế phần cứng","Tầng 4 Collected nan",True,True
+230,"204767","Vũ Huy Mừng","mungvh","0983169112","Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Ban Giám đốc trung tâm","1983-08-18","Nam","Giám đốc Trung tâm Hệ thống Định vị, Dẫn đường và Điều khiển","Tầng 11 Collected nan",True,True
+272,"206278","Nguyễn Đăng Minh","minhnd21","0982659340","Trung tâm Hệ thống Điều khiển Hỏa lực","Phòng Phát triển thuật toán chiến thuật","1985-04-26","Nam","Kỹ sư Thuật toán chiến thuật","Tầng 11 Collected nan",True,True
+259,"199603","Nguyễn Kiêm Chiến","chiennk","0963439669","Trung tâm Đạn tên lửa, Tích hợp và Bắn thử","Ban Giám đốc trung tâm","1980-12-08","Nam","Phó Giám đốc Trung tâm Đạn tên lửa, Tích hợp và bắn thử","Tầng 11 Collected nan",True,True
+370,"215812","Trần Anh Đức","ducta7","0349710767","Nhà máy Tổng lắp thiết bị Hàng không","Phòng Kiểm soát chất lượng","1991-09-19","Nam","Kỹ sư Kiểm soát chất lượng tích hợp","Tầng 4 Collected nan",True,True
+688,"071840","Trần Hoàng Anh","anhth2","0973453786","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Nghiên cứu, thiết kế hệ thống thông tin trường bắn","1986-09-01","Nam","Kỹ sư Thiết kế hệ thống",NULL,True,True
+684,"289951","Nguyễn Đức Thắng","thangnd57","0326623173","Khối Vệ tinh - Viện HKVT","Văn phòng Thiết kế hệ thống Vệ tinh","1999-06-17","Nam","Kỹ sư động lực học vệ tinh",NULL,False,True
+784,"431796","Bùi Gia Lượng","luongbg","0386137992","Trung tâm Phát triển nền tảng điện tử","Phòng Thiết kế điện tử trên khoang","1992-09-11","Nam","Kỹ sư Điện - Điện tử",NULL,True,True
+792,"433753","Nguyễn Đức Đạo","daond4","0989393714","Trung tâm CNTT và Triển khai đảm bảo Trường bắn","Phòng Nghiên cứu, thiết kế hệ thống thông tin trường bắn","1992-10-04","Nam","Kỹ sư Thiết kế hệ thống",NULL,True,True
+798,"434406","Trần Sỹ Nhật Minh","minhtsn","0985677164","Trung tâm Chỉ huy và Điều khiển","Phòng Nghiên cứu hệ thống quan sát không gian","1999-09-24","Nam","Kỹ sư Thiết kế hệ nhúng",NULL,True,True

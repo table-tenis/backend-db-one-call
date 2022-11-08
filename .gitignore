@@ -1,0 +1,3 @@
+env
+python-scripts/__pycache__/*
+python-scripts/config/__pycache__/*

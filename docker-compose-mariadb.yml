@@ -1,0 +1,43 @@
+version: '3.6'
+
+volumes:
+  mariadb-data:
+
+services:
+  mariadb:
+    image: mariadb:10.8.2
+    container_name: ${MARIADB_CONTAINER_NAME:-mariadb}
+    ports:
+      - "${MARIADB_PORT:-root}:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MARIADB_ROOT_PASSWORD:-root}
+      TZ: "Asia/Ho_Chi_Minh"
+    restart: always
+    volumes:
+      - ${MARIADB_VOLUME:-mariadb-data}:/var/lib/mysql
+      - ./db-resources/config/10-custom.cnf:/etc/mysql/mariadb.conf.d/10-custom.cnf
+      - ./db-resources/docker-sql/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: mysqladmin ping -u root --password=${MARIADB_ROOT_PASSWORD:-root}
+      interval: 10s
+      timeout: 2s
+      retries: 3
+      start_period: 10s
+    networks:
+      - db-network
+
+  adminer:
+    image: adminer:latest
+    container_name: ${ADMINER_CONTAINER_NAME:-adminer}
+    environment:
+      ADMINER_DEFAULT_SERVER: ${MARIADB_CONTAINER_NAME:-mariadb}
+      TZ: "Asia/Ho_Chi_Minh"
+    restart: always
+    ports:
+      - ${ADMINER_PORT}:8080
+    networks:
+      - db-network
+
+networks:
+  db-network:
+    name: mariadb-network

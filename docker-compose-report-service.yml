@@ -1,0 +1,53 @@
+version: '3.5'
+
+volumes:
+  report-service-data:
+
+services:
+  report_service:
+    image: ${REPORT_SERVICE_IMAGE_NAME:-report_service:1.1}
+    container_name: ${REPORT_SERVICE_CONTAINER_NAME:-report-service}
+    restart: always
+    ports: 
+      - ${REPORT_SERVICE_PORT:-9032}:9032
+    volumes:
+      - ${REPORT_SERVICE_VOLUME:-report-service-data}:/root/.vscode-server/extensions:rw
+    environment: 
+      DYNACONF_MARIADB_HOST: ${REPORT_SERVICE_MARIADB_HOST:-127.0.0.1}
+      DYNACONF_MARIADB_PORT: ${REPORT_SERVICE_MARIADB_PORT:-3306}
+      DYNACONF_MARIADB_DB_NAME: ${REPORT_SERVICE_MARIADB_NAME:-xface_system}
+      DYNACONF_MARIADB_USERNAME: '${REPORT_SERVICE_MARIADB_USERNAME:-root}'
+      DYNACONF_MARIADB_PASSWORD: '${REPORT_SERVICE_MARIADB_PASSWORD:-root}'
+      DYNACONF_SECRET_KEY: ${REPORT_SERVICE_SECRET_KEY}
+
+    labels:
+      # Declare traefik routers
+      - "traefik.enable=true"
+      - "traefik.http.routers.report.rule=PathPrefix(`/api/xface/v1/reports`)"
+      - "traefik.http.routers.report.entrypoints=web"
+      - "traefik.http.routers.report.service=report-service"
+      # - "traefik.http.routers.report.middlewares=authorization"
+      
+      # Declare traefik services
+      - "traefik.http.services.report-service.loadbalancer.server.port=${REPORT_SERVICE_PORT:-9032}"
+      - "traefik.http.services.report-service.loadbalancer.healthcheck.path=/"
+      - "traefik.http.services.report-service.loadbalancer.healthcheck.interval=5s"
+      - "traefik.http.services.report-service.loadbalancer.healthcheck.timeout=30s"
+
+      # Declare traefik middlewares
+      # - "traefik.http.middlewares.authorization.forwardauth.address=http://${ACCOUNT_SERVICE_CONTAINER_NAME:-account-service}:${ACCOUNT_SERVICE_PORT:-9031}/api/xface/v1/accounts/auth"
+      # - "traefik.http.middlewares.authorization.forwardauth.trustForwardHeader=true"
+    networks:
+      - services-network
+
+    healthcheck:
+      test: ["CMD", "curl", "http://localhost:${REPORT_SERVICE_PORT:-9032}"]
+      interval: 10s
+      timeout: 2s
+      retries: 3
+      start_period: 30s
+    
+networks:
+  services-network:
+    external:
+      name: ${REPORT_SERVICE_NETWORK:-gateway}

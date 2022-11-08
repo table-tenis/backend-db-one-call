@@ -1,0 +1,27 @@
+version: "3.5"
+
+services:
+
+  traefik:
+    image: "traefik:v2.9"
+    container_name: ${TRAEFIK_CONTAINER_NAME:-traefik}
+    restart: always
+    command:
+      #- "--log.level=DEBUG"
+      - "--api.insecure=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:80"
+      - "--entryPoints.web-secure.address=:84"
+    ports:
+      - "${API_GATEWAY_INSECURE_PORT:-8888}:80"
+      - "8884:84"
+      - "${DASHBOARD_PORT:-8880}:8080"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+    networks:
+      - api-gateway
+
+networks:
+  api-gateway:
+    name: ${API_GATEWAY_NETWORK:-gateway}
