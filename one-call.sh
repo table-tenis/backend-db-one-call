@@ -104,9 +104,18 @@ if [[ ${NETWORK_EXIST} != 0 ]]; then
     docker network create -d bridge ${SERVICES_NETWORK}
 fi
 docker-compose up -d
+
+DIR_PATH="$(dirname "$0")"
+PYTHON_VERSION=$(. ${DIR_PATH}/python_version.sh)
+EXIT_CODE=$?
+if [[ ${EXIT_CODE} != 0 ]]; then
+    printf "Not Found Appropriate Python Version\n"
+    exit 1
+fi
+echo "python version = ${PYTHON_VERSION}"
 cd python-scripts
-python -m pip install -r requirements.txt
-python dump_facedata_db.py
-python consumer_to_db.py
+${PYTHON_VERSION} -m pip install -r requirements.txt
+${PYTHON_VERSION} dump_facedata_db.py
+${PYTHON_VERSION} consumer_to_db.py
 
 
