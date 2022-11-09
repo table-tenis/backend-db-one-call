@@ -20,8 +20,9 @@ services:
     volumes:
       - "/var/run/docker.sock:/var/run/docker.sock:ro"
     networks:
-      - api-gateway
+      - services-network
 
 networks:
-  api-gateway:
-    name: ${API_GATEWAY_NETWORK:-gateway}
+  services-network:
+    external:
+      name: ${SERVICES_NETWORK}

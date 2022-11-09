@@ -50,4 +50,4 @@ services:
 networks:
   services-network:
     external:
-      name: ${REPORT_SERVICE_NETWORK:-gateway}
+      name: ${SERVICES_NETWORK}

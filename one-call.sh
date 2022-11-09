@@ -96,6 +96,13 @@ fi
 ########### Redis-Commander, Traefik, Account-Service, ############
 ########### Enterprise-Service Container  #########################
 ###################################################################
+
+VAR=`docker network inspect ${SERVICES_NETWORK}`
+NETWORK_EXIST=$?
+if [[ ${NETWORK_EXIST} != 0 ]]; then
+    printf "Create Network ${SERVICES_NETWORK}\n"
+    docker network create -d bridge ${SERVICES_NETWORK}
+fi
 docker-compose up -d
 cd python-scripts
 python -m pip install -r requirements.txt

@@ -49,4 +49,4 @@ services:
 networks:
   services-network:
     external:
-      name: ${ACCOUNT_SERVICE_NETWORK:-gateway}
+      name: ${SERVICES_NETWORK}
